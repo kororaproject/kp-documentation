@@ -8,6 +8,7 @@ The Cinnamon desktop environment has a number of built-in shortcuts for manipula
 
  * If your keyboard came from a Mac, the `Alt` key might be labeled `Option` instead.
  * If your keyboard came from a Mac, you likely have a `Command` key. If you have a Windows-based keyboard, you likely have a Windows key. These keys are referred to in the Linux world as the `Super` key (or `Meta` key in emacs and a few other contexts)
+ * The ` key is sometimes called the `grave` or `backtick`. It is usually found above the Tab key, and shares its key with the tilde (~).
 
 ## Changing the Default Shortcut Keybindings
 
@@ -83,6 +84,10 @@ If Cinnamon has become buggy or unusable, you can try restarting it via the foll
 ### Launch Nemo File Manager
 
     Super + E
+
+### Launch the Menu Application and Search Bar
+
+    Super
 
 ## Window Management
 
