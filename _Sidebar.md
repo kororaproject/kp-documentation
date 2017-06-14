@@ -1,0 +1,6 @@
+[Home](https://github.com/kororaproject/website/wiki)
++ [Development Notes](https://github.com/kororaproject/website/wiki/Development-Notes)
++ [Getting Korora](https://github.com/kororaproject/website/wiki/Getting-Korora)
+    + [Which Desktop for Your Korora](https://github.com/kororaproject/website/wiki/Which-Desktop-for-Your-Korora)
++ [Working with Archives](https://github.com/kororaproject/website/wiki/Working-With-Archives)
++ [Fpaste](https://github.com/kororaproject/website/wiki/Fpaste)
