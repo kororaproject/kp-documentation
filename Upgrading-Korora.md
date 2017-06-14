@@ -6,11 +6,11 @@ Korora uses Fedora's tools, so upgrading is easy! Here we'll will show you how t
 
 <br />
 
-> Contact us on Engage if you have any problems!
+> Contact us on [Engage](https://kororaproject.org/support/engage) if you have any problems!
 
 <br />
 
-> There are a few known issues that should be reviewed before proceeding.
+> There are a few [known issues](/Upgrading-Known-Issues.md) that should be reviewed before proceeding.
 
 ## Upgrading to the latest release
 
@@ -67,7 +67,7 @@ The rescue kernel option on the Grub boot menu isn't updated during the upgrade 
 sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
-or for EFI systems 
+or for EFI systems
 
  ```
 sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
