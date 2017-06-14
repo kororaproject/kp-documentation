@@ -10,7 +10,7 @@ Korora uses Fedora's tools, so upgrading is easy! Here we'll will show you how t
 
 <br />
 
-> There are a few [known issues](/Upgrading-Known-Issues.md) that should be reviewed before proceeding.
+> There are a few [known issues](https://github.com/kororaproject/kp-documentation/wiki/Upgrading-Known-Issues) that should be reviewed before proceeding.
 
 ## Upgrading to the latest release
 
