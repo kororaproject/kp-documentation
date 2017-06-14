@@ -24,9 +24,7 @@ So let's recap: You've gone to the Korora Download page here:
 
 [https://kororaproject.org/download](https://kororaproject.org/download)
 
-You chose a version of Korora, along with the desktop environment of your choice. Then you've installed the ISO file on a USB stick -- the preferred method of trying out Korora (though you can still burn a DVD and install that way, if need be) -- by using the instructions on the Creating Bootable Media page here:
-
-[https://kororaproject.org/support/documentation/creating-bootable-media](https://kororaproject.org/support/documentation/creating-bootable-media)
+You chose a version of Korora, along with the desktop environment of your choice. Then you've installed the ISO file on a USB stick -- the preferred method of trying out Korora (though you can still burn a DVD and install that way, if need be) -- by using the instructions on the Creating Bootable Media page [here](https://github.com/kororaproject/kp-documentation/wiki/Creating-Bootable-Media).
 
 Now you're ready to go.
 
