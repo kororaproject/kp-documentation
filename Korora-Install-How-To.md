@@ -4,4 +4,4 @@ Being a Fedora Remix, Korora inherits the [Anaconda ](https://fedoraproject.org/
 
 You may need to add `vimeo.com `to the FlashBlock extension's whitelist before the video will play in FireFox.
 
-[![Korora_Project_-_2017-06-14_22.18.13.png](https://s30.postimg.org/6ujhi1i6p/Korora_Project_-_2017-06-14_22.18.13.png)](https://vimeo.com/69508041)
+[![img/Korora_Project_-_2017-06-14_22.18.13.png](img/Korora_Project_-_2017-06-14_22.18.13.png)](https://vimeo.com/69508041)
