@@ -8,6 +8,7 @@
 + [Updating Korora](/Updating-Korora.md)
   + [Keeping Current Package Versions](/Keeping-Current-Package-Version.md)
   + [Updating Via Command Line](/Updating-Via-command-Line.md)
+  + [Updating With Yumex](/Udating-With-Yumex.md)
 + [Upgrading Korora](/Upgrading-Korora.md)
  + [Upgrading - Known Issues](/Upgrading-Known-Issues.md)
 + [Using Korora](/Using-Korora.md)
