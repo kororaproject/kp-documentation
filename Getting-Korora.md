@@ -31,4 +31,4 @@ Korora gives you the option of five desktop environments, which are:
 
 **Xfce:** A lightweight desktop with speed and function, Xfce maintains a visually appealing desktop while aiming to be fast while using a lower amount of system resources. Xfce offers both speed and functionality as its core strength. For more information on Korora Xfce, visit our [Xfce page](https://kororaproject.org/discover/xfce).
 
-For help choosing the desktop that is right for you see [here](https://kororaproject.org/support/documentation/which-desktop-for-your-korora)
+For help choosing the desktop that is right for you see [here](https://github.com/kororaproject/kp-documentation/wiki/Which-Desktop-for-Your-Korora)
