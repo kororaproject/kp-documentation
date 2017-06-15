@@ -1,0 +1,3 @@
+The Display Manager provides the graphical login screen you see when you start your Korora system. It has options for the desktop you will run and allows you to enter your password. Korora uses LightDM as the display manager for Cinnamon, Mate and Xfce. These guides will show you how to customise LightDM up to suit your specific needs.
+
+Korora includes a graphical configuration utility for LightDM. You will find it in System Settings or under Administration depending on the Desktop Environment you are using. It allows the setting of background, theme, user icon. location and a number of other options.
