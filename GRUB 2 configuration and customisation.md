@@ -64,13 +64,13 @@ Now rebuild your running configuration using the _Rebuilding Running Configurati
 
 ## Changing the colours related to the fonts
 
-1 – First of all, open the 41_custom file with your favourite editor.
+#### 1 – First of all, open the 41_custom file with your favourite editor.
 
 ```bash
 sudo nano -w /etc/grub.d/41_custom
 ```
 
-2 – In that file between the lines _fi_ and _EOF_ add these two lines.
+#### 2 – In that file between the lines _fi_ and _EOF_ add these two lines.
 
 ```bash
 set color_normal=white/black
@@ -93,14 +93,14 @@ EOF
 
 <a href="http://members.iinet.net/~herman546/p20/GRUB2%20Splashimages.html#Splashimage_Font_Colors" title="Here">Here</a> is a nice explanation and the list of the colours supported by GRUB 2 (please ignore the 05_debian_theme as it's not related to Fedora/Korora).
 
-3 – Generate your new grub.cfg file.
+#### 3 – Generate your new grub.cfg file.
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
 ## Seeing startup details
 Some of us prefer to see what is happening when the system boots rather than the pretty animations that Plymouth provides. There are two ways to achieve this, edit the GRUB config or change the Plymouth theme.
 
-1 – Editing GRUB configuration
+#### 1 – Editing GRUB configuration
 
 Edit the default GRUB 2 config file as root (substitute _nano -w_ for your favourite editor, such as _gedit_ for GNOME or _kwrite_ for KDE).
 
@@ -112,7 +112,7 @@ Find the *GRUB_CMDLINE_LINUX* entry and remove *rhgb* from the line and saving t
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
-2 – Change Plymouth theme
+#### 2 – Change Plymouth theme
 
 List the available Plymouth themes.
 
