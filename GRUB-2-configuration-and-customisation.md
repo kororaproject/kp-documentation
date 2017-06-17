@@ -1,5 +1,5 @@
 GRUB 2 has been the default bootloader for Fedora and Korora for a number of releases. This is a short guide on tweaking the common settings, such as themes.
-![img/GRUB_2_configuration_and_customisation.png](img/GRUB_2_configuration_and_customisation.png)
+![img/GRUB_2_configuration_and_customisation.png](https://github.com/kororaproject/kp-documentation/blob/master/img/GRUB_2_configuration_and_customisation.png)
 
 >It is always a good idea to backup any important data before modifying system configuration.
 ## Files
