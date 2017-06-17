@@ -41,6 +41,6 @@
    + [Using Engage](https://github.com/kororaproject/kp-documentation/wiki/Using-Engage)
 + [Developing For Korora](https://github.com/kororaproject/kp-documentation/wiki/Developing-For-Korora)
    + [Contributing To Documentation](https://github.com/kororaproject/kp-documentation/wiki/Contributing-To-Documentation)
-    + [Planned Documentation](https://github.com/kororaproject/kp-documentation/wiki/Planned-Documentation)
+     + [Planned Documentation](https://github.com/kororaproject/kp-documentation/wiki/Planned-Documentation)
    + [ISO Testing](https://github.com/kororaproject/kp-documentation/wiki/oso-Testing)
    + [Using the Korora Packaging Tool, kp](https://github.com/kororaproject/kp-documentation/wiki/Using-Kp)

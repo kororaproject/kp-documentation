@@ -4,7 +4,7 @@ The following are suggested topics to be added to the documentation section. The
 
 Any submissions are gratefully accepted, see [here ](https://github.com/kororaproject/kp-documentation/wiki/Contributing-To-Korora)for information on how to contribute.
 
-_A username after the topic indicates they are currently working on that topic_. Please create a Pull request any alterations or email **team@kororaproject.org** .
+_A username after the topic indicates they are currently working on that topic_. Please create a Pull request for any alterations or email **team@kororaproject.org** .
 
 ### Getting Korora
 
@@ -18,39 +18,40 @@ _A username after the topic indicates they are currently working on that topic_.
   - How to use the desktop
 
      - Cinnamon
-         - Desktop Layout and Philosophy
-         - Opening / Searching for applications
-         - Managing your files
-         - Workspaces
-         - etc.
 
-    - GNOME
-      - Desktop Layout and Philosophy
-      - Opening / Searching for applications
-     - Managing your files
-     - Workspaces
-     - etc.
+        - Desktop Layout and Philosophy
+        - Opening / Searching for applications
+        - Managing your files
+        - Workspaces
+        - etc.
 
-   - KDE Plasma
-      - Desktop Layout and Philosophy
-     - Opening / Searching for applications
-     - Managing your files
-     - Workspaces
-     - etc.
+     - GNOME
+        - Desktop Layout and Philosophy
+        - Opening / Searching for applications
+       - Managing your files
+       - Workspaces
+       - etc.
 
-   - MATE
-     - Desktop Layout and Philosophy
-     - Opening / Searching for applications
-     - Managing your files
-     - Workspaces
-     - etc.
+     - KDE Plasma
+        - Desktop Layout and Philosophy
+        - Opening / Searching for applications
+        - Managing your files
+        - Workspaces
+        - etc.
 
-   - Xfce
-     - Desktop Layout and Philosophy
-     - Opening / Searching for applications
-     - Managing your files
-     - Workspaces
-     - etc.
+     - MATE
+       - Desktop Layout and Philosophy
+       - Opening / Searching for applications
+       - Managing your files
+       - Workspaces
+       - etc.
+
+     - Xfce
+       - Desktop Layout and Philosophy
+       - Opening / Searching for applications
+       - Managing your files
+       - Workspaces
+       - etc.
 
  - Applications
    - Gimp
