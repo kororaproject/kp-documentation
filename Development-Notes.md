@@ -22,7 +22,7 @@ cover using, Tip and Tricks, could get very large,
 covers getting help and developing
 
 ## Creation of Contributers Documentation
-The creation of guidlines for thos that wish to contribute to the docs to be created. This will cover:
+The creation of guidlines for those that wish to contribute to the docs to be created. This will cover:
 1. How To Contribute
 2. File Heirachy
 3. File Naming Conventions
