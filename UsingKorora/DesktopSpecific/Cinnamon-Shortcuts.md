@@ -4,7 +4,7 @@ The Cinnamon desktop environment has a number of built-in shortcuts for manipula
 
 **NOTE**: We will not cover all of the available shortcuts. You can look at the Keyboard menu discussed below in order to see them all. This article will cover some of the ones you are most likely to use.
 
-**NOTE on Key Terminology**: 
+**NOTE on Key Terminology**:
 
  * If your keyboard came from a Mac, the `Alt` key might be labeled `Option` instead.
  * If your keyboard came from a Mac, you likely have a `Command` key. If you have a Windows-based keyboard, you likely have a Windows key. These keys are referred to in the Linux world as the `Super` key (or `Meta` key in emacs and a few other contexts)
@@ -12,12 +12,12 @@ The Cinnamon desktop environment has a number of built-in shortcuts for manipula
 
 ## Changing the Default Shortcut Keybindings
 
-We will be discussing the shortcuts as they exist on a freshly-installed instance of Korora Cinnamon. However, if you would like to change the default shortcuts to better suit your keyboard or workflow, you are free to do by opening the Keyboard settings application, which can be reached by navigating through the following menu path: 
+We will be discussing the shortcuts as they exist on a freshly-installed instance of Korora Cinnamon. However, if you would like to change the default shortcuts to better suit your keyboard or workflow, you are free to do by opening the Keyboard settings application, which can be reached by navigating through the following menu path:
 **Menu -> Preferences -> Keyboard -> Shortcuts**
 or
 **Menu -> Preferences -> System Settings -> Hardware -> Keyboard -> Shortcuts**
 
-![keyboard-shortcuts](assets/keyboard_shortcuts_window.png "Keyboard Shortcuts window") 
+![keyboard-shortcuts](https://github.com/kororaproject/kp-documentation/wiki/img/cinnamon-keyboard_shortcuts_window.png "Keyboard Shortcuts window") 
 
 ## Emergency Shortcuts
 
