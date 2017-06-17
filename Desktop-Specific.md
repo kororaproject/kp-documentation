@@ -1,1 +1,0 @@
-This section contains tips and tricks that are specific to a single desktop environment.
