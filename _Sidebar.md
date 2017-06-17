@@ -21,6 +21,7 @@
             + [Screen Locking with Light Locker](https://github.com/kororaproject/kp-documentation/wiki/Screen-Locking-with-Light-Locker)
     + [Desktop Specific](https://github.com/kororaproject/kp-documentation/wiki/Desktop-Specific)
         + [Cinnamon](https://github.com/kororaproject/kp-documentation/wiki/Cinnamon)
+         + [Cinnamon Keyboard Shortcuts](https://github.com/kororaproject/kp-documentation/wiki/Cinnamon-Shortcuts)
         + [KDE Plasma](https://github.com/kororaproject/kp-documentation/wiki/KDE-Plasma)
         + [Mate](https://github.com/kororaproject/kp-documentation/wiki/Mate)
         + [Xfce](https://github.com/kororaproject/kp-documentation/wiki/Xfce)
