@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-**Guidlines for those that wish to contribute to the docs to be created.**
+**Guidlines for those that wish to contribute to the Korora Documentation.**
 
 > We welcome all contributions to the Korora Documentation but please follow these guidlines.
 
