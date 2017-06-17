@@ -4,23 +4,21 @@ One of the things that Oracle did after it pried Java from Sun's cold dead hands
 
 By default, Korora comes with the OpenJDK version of Java and you probably don't want to uninstall it because some applications depend on it. You can see the OpenJDK version when you query Java.
 
-> java -version
-
+```
+ java -version
+```
 In order to install Oracle's Java it must be done manually, but fortunately it's not too difficult thanks to the way Java can be slotted (multiple versions installed) on Linux.
 
 ## Download Java
 
 Head over to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and select either the JRE (runtime environment) or the JDK (development kit) of the SE (standard edition).
 
-![](img/install-oracle-java-download.jpg)
-
+![](https://github.com/kororaproject/kp-documentation/blob/master/img/install-oracle-java-download.jpg)
 
 At the download page, agree to the license and then download the RPM for your architecture (64 bit JDK in the example below) and save it somewhere like your Downloads directory.
 
-![](img/install-oracle-java-select.jpg)
-
-
-In our example, the file we downloaded is called _jdk-7u51-linux-x64.rpm _however yours will most certainly be different so substitute as appropriate.
+![](https://github.com/kororaproject/kp-documentation/blob/master/img/install-oracle-java-select.jpg)
+In our example, the file we downloaded is called _jdk-7u51-linux-x64.rpm _ however yours will most certainly be different so substitute as appropriate.
 Install Java
 
 You can install this RPM using a graphical package manager if you like, however we also need to use the command line to configure the slotting so let's do it all there instead.
