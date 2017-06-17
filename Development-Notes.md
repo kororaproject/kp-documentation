@@ -13,13 +13,20 @@ This would also solve the image storage issue as covered in https://github.com/k
 After some trial and error it was found that for images to appear on kp.org they need to use the full path with ?raw=true appended.
 It may be necessary to create a Contribution Guidelines doc to simplify acceptance of contributions. One possible issue is image names which could be duplicated. Suggest names reflect the document they attach to.
 ## Categorise Docs
-~~add folders to categorise ~~ Done
-### Installation Etc. 
+~~add folders to categorise~~  Done
+### Installation Etc.
 covers getting, installing, upgrading and updating
 ### Using and Tip
 cover using, Tip and Tricks, could get very large,
 ### Support and Development
 covers getting help and developing
+
+## Creation of Contributers Documentation
+The creation of guidlines for thos that wish to contribute to the docs to be created. This will cover:
+1. How To Contribute
+2. File Heirachy
+3. File Naming Conventions
+4. Image Naming Conventions
 
 ## Sync to Site
 2 documents have been added that cover the most common needs to sync to the website.
