@@ -18,6 +18,7 @@ Head over to the [Java download page](http://www.oracle.com/technetwork/java/jav
 At the download page, agree to the license and then download the RPM for your architecture (64 bit JDK in the example below) and save it somewhere like your Downloads directory.
 
 ![](https://github.com/kororaproject/kp-documentation/blob/master/img/install-oracle-java-select.jpg)
+
 In our example, the file we downloaded is called _jdk-7u51-linux-x64.rpm _ however yours will most certainly be different so substitute as appropriate.
 Install Java
 
