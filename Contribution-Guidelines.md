@@ -36,3 +36,5 @@ When adding new files, please follow the following file naming guidlines:
 All images are to be placed in the `img `folder.
 
 When naming your images please name them using the name of your file and if multiple images, further name them with a number or heading for which they are under, for example: `Contibution-Guidelines-Fork.png`.
+
+Anyone with any questions or unable to contribute in this format please contact us at **team@kororaproject.org**.
