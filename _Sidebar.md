@@ -50,6 +50,6 @@
 + [Developing For Korora](https://github.com/kororaproject/kp-documentation/wiki/Developing-For-Korora)
    + [Contributing To Documentation](https://github.com/kororaproject/kp-documentation/wiki/Contributing-To-Documentation)
      + [Planned Documentation](https://github.com/kororaproject/kp-documentation/wiki/Planned-Documentation)
-     +  [Contributing Via GitHub ](https://github.com/kororaproject/kp-documentation/wiki/Contribution-Guidlines)
+     +  [Contributing Via GitHub ](https://github.com/kororaproject/kp-documentation/wiki/Contribution-Guidelines)
    + [ISO Testing](https://github.com/kororaproject/kp-documentation/wiki/oso-Testing)
    + [Using the Korora Packaging Tool, kp](https://github.com/kororaproject/kp-documentation/wiki/Using-Kp)
