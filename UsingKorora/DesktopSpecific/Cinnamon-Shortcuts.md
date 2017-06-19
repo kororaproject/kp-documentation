@@ -95,11 +95,11 @@ If Cinnamon has become buggy or unusable, you can try restarting it via the foll
 
 To cycle from left to right, use:
 
-    Ctrl + Tab
+    Alt + Tab
 
 To cycle in the reverse direction, use:
 
-    Ctrl + Shift + Tab
+    Alt + Shift + Tab
 
 ### Cycle between open instances of the same application
 
