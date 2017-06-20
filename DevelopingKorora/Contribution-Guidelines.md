@@ -6,13 +6,13 @@
 
 ## How To Contribute
 
-If you wish to contribute to the Korora Docs, first you must create a GitHub account if you have not already done so.
+If you wish to contribute to the Korora Docs via GitHub, first you must create a GitHub account if you have not already done so.
 
 You must then  fork the repo ( you will find the button at the top of the page).
 
 ![](img/Contibution-Guidelines-Fork.png)
 
-You must then submit a pull request for any new documentation you may add, which will then be subject to review before inclusion.
+You must then submit a pull request for any new documentation you may add, which will then be subject to review before inclusion. Korora documentation uses the [same syntax for formatting](https://kororaproject.org/support/engage/syntax) as Engage.
 
 ## File Heirachy
 
