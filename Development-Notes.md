@@ -10,8 +10,11 @@ Sidebar - added, however not really required unless it is intended that the wiki
 ~~It was suggested that we create a separate repo for documentation, - "if you really want to be able to use PRs for documentation you can use a normal github repo to do the PRs on and the repo owners (those with push permissions) can manually sync to the wiki repo when new documentation is added/accepted"
 If this is done it may be better to move this wiki to that repo.
 This would also solve the image storage issue as covered in https://github.com/kororaproject/website/issues/56~~ Done
-After some trial and error it was found that for images to appear on kp.org they need to use the full path with ?raw=true appended.
-It may be necessary to create a Contribution Guidelines doc to simplify acceptance of contributions. One possible issue is image names which could be duplicated. Suggest names reflect the document they attach to.
+After some trial and error it was found that for images to appear on kp.org they need to use the full path with ?raw=true appended.  
+~~It may be necessary to create a Contribution Guidelines doc to simplify acceptance of contributions. One possible issue is image names which could be duplicated. Suggest names reflect the document they attach to.~~ Done  
+Need to standardise layout. Some docs have a leading H1 which (usually) duplicates the doc title and therefore is superfluous on the wiki. Suggest a H2 is used when it differs from the title and otherwise removed.  
+There is also inconsistent use of H2 and H3 within docs. This should be standardised as well.
+
 ## Categorise Docs
 ~~add folders to categorise~~  Done
 ### Installation Etc.
