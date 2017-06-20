@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Rebuilding running configuration](#rebuilding-running-configuration)
+- [Making changes](#making-changes)
+- [Adding a background](#adding-a-background)
+- [Changing the colours related to the fonts](#changing-the-colours-related-to-the-fonts)
+    - [1 – First of all, open the 41_custom file with your favourite editor.](#1--first-of-all-open-the-41_custom-file-with-your-favourite-editor)
+    - [2 – In that file between the lines _fi_ and _EOF_ add these two lines.](#2--in-that-file-between-the-lines-_fi_-and-_eof_-add-these-two-lines)
+    - [3 – Generate your new grub.cfg file.](#3--generate-your-new-grubcfg-file)
+- [Seeing startup details](#seeing-startup-details)
+    - [1 – Editing GRUB configuration](#1--editing-grub-configuration)
+    - [2 – Change Plymouth theme](#2--change-plymouth-theme)
+- [More information](#more-information)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 GRUB 2 has been the default bootloader for Fedora and Korora for a number of releases. This is a short guide on tweaking the common settings, such as themes.
 ![img/GRUB_2_configuration_and_customisation.png](https://github.com/kororaproject/kp-documentation/blob/master/img/GRUB_2_configuration_and_customisation.png)
 

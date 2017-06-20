@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Korora - Video Guide](#installing-korora---video-guide)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Korora - Video Guide
 
 Being a Fedora Remix, Korora inherits the [Anaconda ](https://fedoraproject.org/wiki/Anaconda)installer for all of our images. Having undergone a massive re-write in 2012 it has seen solid improvements since then. This presentation walks you through the installation of Korora onto your hard disk and although it was created for version 18, it is still relevant for the latest release.

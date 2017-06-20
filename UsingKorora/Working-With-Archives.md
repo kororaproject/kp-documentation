@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Working with Archives](#working-with-archives)
+  - [Archive Types and Extensions](#archive-types-and-extensions)
+    - [Tar](#tar)
+    - [Zip](#zip)
+  - [Within the File Manager](#within-the-file-manager)
+    - [Creating an Archive](#creating-an-archive)
+    - [Extracting an Archive](#extracting-an-archive)
+  - [Within the Terminal](#within-the-terminal)
+    - [Creating an Archive](#creating-an-archive-1)
+    - [Extracting an Archive](#extracting-an-archive-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Working with Archives
 
 At some point, you will probably have to deal with a compressed archive file. Archives allow you to lump multiple files or directories together into a single file, making it easier for transportation.

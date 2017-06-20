@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Planned Documentation](#planned-documentation)
+    - [Getting Korora](#getting-korora)
+    - [Using Korora](#using-korora)
+    - [Canvas (when it comes along)](#canvas-when-it-comes-along)
+    - [Developing for Korora](#developing-for-korora)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Planned Documentation
 
 The following are suggested topics to be added to the documentation section. These are only suggestions and shouldn't be considered a limiting factor for submissions. Any topic connected with using Korora may be suitable for inclusion.

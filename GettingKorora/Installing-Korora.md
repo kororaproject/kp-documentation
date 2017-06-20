@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Korora](#installing-korora)
+  - [Before you begin](#before-you-begin)
+  - [Secure boot](#secure-boot)
+  - [Fast shutdown](#fast-shutdown)
+  - [INSTALLING KORORA AS A SOLE OS (SINGLE BOOT)](#installing-korora-as-a-sole-os-single-boot)
+    - [Language](#language)
+    - [Installation Summary](#installation-summary)
+    - [Configuration](#configuration)
+  - [INSTALLING KORORA AS MULTIPLE BOOT (DUAL BOOT)](#installing-korora-as-multiple-boot-dual-boot)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Korora
 
 Being a Fedora Remix, Korora inherits the [Anaconda](https://fedoraproject.org/wiki/Anaconda) installer for all of our images. Having undergone a massive re-write in 2012 it has seen solid improvements since then. This document walks you through the installation of Korora onto your hard disk. We try to cover common scenarios, including EFI as it is becoming more common these days.

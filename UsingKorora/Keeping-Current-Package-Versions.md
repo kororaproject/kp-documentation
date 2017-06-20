@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Keeping Current Package Versions](#keeping-current-package-versions)
+  - [With the Command Line](#with-the-command-line)
+  - [In Configuration Files](#in-configuration-files)
+  - [Kernel Versions](#kernel-versions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Keeping Current Package Versions
 
 On occasion you may find it necessary to prevent a package from updating. This usually occurs when a new version introduces a serious bug or breaks backwards compatibility with your original data. It is possible to inhibit package updates for nominated packages while still updating the rest of your system.

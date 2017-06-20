@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Skype](#installing-skype)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Skype
 
 Skype is a popular messaging and telephony client. It isn't open source and the license prohibits redistribution however it is possible to install it using Korora's package manager or from the command line using dnf.

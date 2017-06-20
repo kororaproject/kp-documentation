@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Accessing a Text Console](#accessing-a-text-console)
+  - [What is a Text Console?](#what-is-a-text-console)
+  - [Accessing a Text Console](#accessing-a-text-console-1)
+  - [Example of Using a Text Console](#example-of-using-a-text-console)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Accessing a Text Console
 ## What is a Text Console?
 

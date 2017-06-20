@@ -1,3 +1,41 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cinnamon Shortcuts](#cinnamon-shortcuts)
+  - [Changing the Default Shortcut Keybindings](#changing-the-default-shortcut-keybindings)
+  - [Emergency Shortcuts](#emergency-shortcuts)
+    - [Launch a Console Terminal](#launch-a-console-terminal)
+    - [Restart Cinnamon](#restart-cinnamon)
+    - [Shut Down](#shut-down)
+  - [Session Shortcuts](#session-shortcuts)
+    - [Lock Screen](#lock-screen)
+    - [Log Out of Current Session](#log-out-of-current-session)
+  - [Workspace Shortcuts](#workspace-shortcuts)
+    - [Switch to left workspace](#switch-to-left-workspace)
+    - [Switch to right workspace](#switch-to-right-workspace)
+    - [Send current window to left workspace](#send-current-window-to-left-workspace)
+    - [Send current window to right workspace](#send-current-window-to-right-workspace)
+  - [Launchers](#launchers)
+    - [Launch the GNOME Terminal](#launch-the-gnome-terminal)
+    - [Launch Nemo File Manager](#launch-nemo-file-manager)
+    - [Launch the Menu Application and Search Bar](#launch-the-menu-application-and-search-bar)
+  - [Window Management](#window-management)
+    - [Cycle between open windows / applications](#cycle-between-open-windows--applications)
+    - [Cycle between open instances of the same application](#cycle-between-open-instances-of-the-same-application)
+    - [Show Desktop](#show-desktop)
+    - [Snap current window to left side of screen](#snap-current-window-to-left-side-of-screen)
+    - [Snap current window to right side of screen](#snap-current-window-to-right-side-of-screen)
+    - [Snap current window to top of screen](#snap-current-window-to-top-of-screen)
+    - [Snap current window to bottom of screen](#snap-current-window-to-bottom-of-screen)
+  - [Screenshots](#screenshots)
+    - [Take a Screenshot](#take-a-screenshot)
+    - [Take Screenshot of the Current Window](#take-screenshot-of-the-current-window)
+    - [Take Screenshot of Selected Area](#take-screenshot-of-selected-area)
+    - [Record the Desktop](#record-the-desktop)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Cinnamon Shortcuts
 
 The Cinnamon desktop environment has a number of built-in shortcuts for manipulating the system's resolution, switching workspaces, and launching applications. Mastery of these shortcuts will greatly reduce the amount of time spent clicking around menus and potentially boost your productivity.

@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Upgrading - Known issues](#upgrading---known-issues)
+  - [Package Errors](#package-errors)
+  - [Sudo](#sudo)
+  - [User Installed Applications](#user-installed-applications)
+  - [Third party Repos](#third-party-repos)
+  - [LightDM](#lightdm)
+  - [Xfce Settings](#xfce-settings)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Upgrading - Known issues
 
 Using the upgrade facility is a simple way to move to Korora 24 without the need of a full installation. Your data, settings and installed applications are still there and you can keep working on your system for much of the process. There are a few known issues that may appear during the process, although they are all easily handled and the upgrade process should then proceed as expected.

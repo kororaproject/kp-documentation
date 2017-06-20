@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Creating bootable media](#creating-bootable-media)
+  - [Create USB media on Linux](#create-usb-media-on-linux)
+    - [Fedora Live USB Creator](#fedora-live-usb-creator)
+    - [The dd command](#the-dd-command)
+  - [Create USB media on Windows](#create-usb-media-on-windows)
+  - [Create USB media on OS X (and maybe Unix)](#create-usb-media-on-os-x-and-maybe-unix)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Creating bootable media
 
 Your Korora image is a live system meaning it's a complete operating system, designed to be booted directly from a USB memory stick. It does not write to your hard disk unless you run the installer, after which time you can boot Korora directly from your computer in non-live mode.

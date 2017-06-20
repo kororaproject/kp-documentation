@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [ISO Testing](#iso-testing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # ISO Testing
 
 Before being released all Korora ISO's should be checked that they provide the best possible experience and don't include any problems that reflect poorly on our project. A set testing routine aims to achieve a consistent standard across all Korora systems.

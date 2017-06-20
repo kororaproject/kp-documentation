@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Google Chrome](#installing-google-chrome)
+  - [Testing Versions](#testing-versions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Google Chrome
 
 Korora includes FireFox as its default browser but many people prefer Google Chrome. Unfortunately Chrome cannot be distributed in Korora due to its licensing restrictions. However it is simple to install Chrome in any version of Korora.

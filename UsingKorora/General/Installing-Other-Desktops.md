@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Other Desktops](#installing-other-desktops)
+  - [Why would you install other DEs?](#why-would-you-install-other-des)
+  - [Installation](#installation)
+  - [Method 1.](#method-1)
+  - [Method 2.](#method-2)
+  - [Removing the New Desktop](#removing-the-new-desktop)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Other Desktops
 
 Korora comes with a choice of a number of desktop environments (DEs) however as Korora is based on Fedora there is a large range of alternate environments and window managers you can add to Korora. These include Openbox, LXDE, Sugar and E17 from the Fedora repos and E18 Enlightenment and LXQT are available from external repos. You can also add another of desktops Korora offers.

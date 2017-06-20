@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Xfce Terminal Dropdown Option](#xfce-terminal-dropdown-option)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Xfce Terminal Dropdown Option
 
 Many people prefer a dropdown terminal in place of the traditional separate application. Dropdown, sometimes called quake style, terminals allow you to have a terminal open with quick access using a hotkey and without using screen space. The current Xfce terminal has a drop down option. However it is not obvious to most people.

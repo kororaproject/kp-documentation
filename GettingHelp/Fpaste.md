@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [fpaste a file](#fpaste-a-file)
+- [fpaste the output of a command](#fpaste-the-output-of-a-command)
+- [fpaste with copied text](#fpaste-with-copied-text)
+- [Other Options](#other-options)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 When seeking support it is often useful to share the contents of a configuration file or the output of a command. Korora has a builtin utility for doing exactly this. It is fpaste. 
 
 Fpaste makes use of the fpaste.org pastebin service.

@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Getting help with Korora](#getting-help-with-korora)
+  - [Engage Guidelines](#engage-guidelines)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Getting help with Korora
 
 There are a number of ways of getting help with Korora - [https://kororaproject.org/support](https://kororaproject.org/support) Korora uses a custom open source support system called Engage. We feel it's pretty self explanatory, but some details on how to use it are coming soon!

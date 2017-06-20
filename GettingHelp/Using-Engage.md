@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Using Engage](#using-engage)
+  - [Asking a Question](#asking-a-question)
+  - [Common Engage Syntax Questions](#common-engage-syntax-questions)
+    - [Links](#links)
+    - [Text Boxes](#text-boxes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Using Engage
 
 [Engage](https://kororaproject.org/support/engage) is your official portal to the Korora Community. Here you can search through the available questions and thanks that other members have posted. Alternatively, submit your own and let the community help you.

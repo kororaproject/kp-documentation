@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Using the Korora Packaging tool, kp](#using-the-korora-packaging-tool-kp)
+  - [Requirements](#requirements)
+  - [Add user to the mock group](#add-user-to-the-mock-group)
+  - [Creating a ssh key and adding it to your Git account](#creating-a-ssh-key-and-adding-it-to-your-git-account)
+  - [SSH preparation](#ssh-preparation)
+  - [Get code and setup](#get-code-and-setup)
+  - [Checkout a version](#checkout-a-version)
+  - [Sync the package list](#sync-the-package-list)
+  - [Build first packages](#build-first-packages)
+  - [Create a dnf repository](#create-a-dnf-repository)
+  - [Build all packages](#build-all-packages)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Using the Korora Packaging tool, kp
 
 Korora Package tool (called _kp_) is a bunch of shell scripts that wrap standard system commands (like git, mock and livecd-creator) to build Korora packages and images. Users should be running Korora or Fedora already, however which specific version generally doesn't matter.

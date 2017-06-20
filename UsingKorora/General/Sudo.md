@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Sudo](#sudo)
+  - [Setting up Sudo](#setting-up-sudo)
+  - [Using Sudo](#using-sudo)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Sudo
 
 Prefacing a command with sudo allows a user to run that command as another user. It is commonly used to run commands, such as dnf, that require administrator permission as a user.

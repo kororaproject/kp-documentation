@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Contributing to Documentation](#contributing-to-documentation)
+  - [Contributions](#contributions)
+  - [Submitting Contributions](#submitting-contributions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contributing to Documentation
 
 This section of the Korora web site is designed to provide all the information needed to obtain, install and use a Korora system. It is for you, the normal Korora user, and you can help achieve that aim by contributing suggestions and possibly documents. You don't need to be an expert to create a document, just share how you do what you do with Korora.

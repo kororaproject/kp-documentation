@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Getting Korora](#getting-korora)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Getting Korora
 
 You've taken a look at the site and you might be wondering to yourself, "How can I take a look at this great Linux distribution?"

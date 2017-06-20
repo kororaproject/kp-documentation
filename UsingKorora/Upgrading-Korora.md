@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Upgrading Korora](#upgrading-korora)
+  - [Upgrading to the latest release](#upgrading-to-the-latest-release)
+  - [Optional: Upgrade the Rescue Kernel](#optional-upgrade-the-rescue-kernel)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Upgrading Korora
 
 Korora uses Fedora's tools, so upgrading is easy! Here we'll will show you how to upgrade from one release to a new one.

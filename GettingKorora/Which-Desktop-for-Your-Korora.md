@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Applications](#applications)
+- [Xfce](#xfce)
+- [MATE](#mate)
+- [Cinnamon](#cinnamon)
+- [KDE Plasma](#kde-plasma)
+- [GNOME](#gnome)
+- [Summary](#summary)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 So you finally decided that Korora is the distro for you. However, you are now faced with a daunting task of which flavor or desktop environment (DE) to use. Korora currently offers the following: 
 - XFCE 
 - MATE 

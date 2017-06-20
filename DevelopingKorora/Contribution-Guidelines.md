@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Contribution Guidelines](#contribution-guidelines)
+  - [How To Contribute](#how-to-contribute)
+  - [File Heirachy](#file-heirachy)
+    - [GettingKorora](#gettingkorora)
+    - [UsingKorora](#usingkorora)
+    - [GettingHelp](#gettinghelp)
+  - [File Naming Conventions](#file-naming-conventions)
+  - [Image Naming Conventions](#image-naming-conventions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Contribution Guidelines
 
 **Guidlines for those that wish to contribute to the Korora Documentation.**

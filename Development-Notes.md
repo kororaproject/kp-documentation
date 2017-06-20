@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Recent Changes](#recent-changes)
+- [Suggestions](#suggestions)
+- [Categorise Docs](#categorise-docs)
+  - [Installation Etc.](#installation-etc)
+  - [Using and Tip](#using-and-tip)
+  - [Support and Development](#support-and-development)
+- [Creation of Contributers Documentation](#creation-of-contributers-documentation)
+- [Sync to Site](#sync-to-site)
+  - [Known Incompatibilites](#known-incompatibilites)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 These are notes on the development of this section and will be removed when the wiki is operational. **Anyone with suggestions feel free to add or comment.**
 
 This project started as a result of the discussion on https://github.com/kororaproject/website/issues/55 and also the request from a number of people to allow contributions by pull requests.

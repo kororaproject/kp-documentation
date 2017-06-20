@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [QT Theming on GTK Desktops](#qt-theming-on-gtk-desktops)
+  - [qt5ct](#qt5ct)
+  - [Qt-config](#qt-config)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # QT Theming on GTK Desktops
 
 There are 2 common toolkits used to create applications and desktops in Linux systems. These are GTK and Qt. All desktops in Korora apart from KDE Plasma are built on GTK, Plasma is built on Qt. However most applications are built on one or the other. There are a few applications such as Dnfdragora which come with GUI interfaces for both toolkits but most only use one. It is fine to use QT applications on GTK desktops however they may not honour the look and feel of GTK themes.

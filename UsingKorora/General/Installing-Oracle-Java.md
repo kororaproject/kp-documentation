@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Installing Oracle's Java](#installing-oracles-java)
+  - [Download Java](#download-java)
+  - [Slotting Java](#slotting-java)
+  - [Test Java](#test-java)
+  - [Updating Java](#updating-java)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Installing Oracle's Java
 
 One of the things that Oracle did after it pried Java from Sun's cold dead hands was to change the license so that no Linux distributions could distribute it any more.

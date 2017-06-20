@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Updating via command line](#updating-via-command-line)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Updating via command line
 
 Korora has a command line which is extremely powerful and flexible. Learning how to use it is something that all good Linux users should be able to do without being scared. Here's how to update your system using the command line.
