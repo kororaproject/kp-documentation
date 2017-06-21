@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Installing Other Desktops](#installing-other-desktops)
@@ -9,7 +9,7 @@
   - [Method 2.](#method-2)
   - [Removing the New Desktop](#removing-the-new-desktop)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Installing Other Desktops
 

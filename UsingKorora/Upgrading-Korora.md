@@ -1,12 +1,12 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Upgrading Korora](#upgrading-korora)
   - [Upgrading to the latest release](#upgrading-to-the-latest-release)
   - [Optional: Upgrade the Rescue Kernel](#optional-upgrade-the-rescue-kernel)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Upgrading Korora
 
@@ -14,11 +14,11 @@ Korora uses Fedora's tools, so upgrading is easy! Here we'll will show you how t
 
 > This should work reliably, however you still do so at your own risk (like any upgrade). If this fails, then you will need to perform a re-install so please make sure you've backed up important data.
 
-<br />
+
 
 > Contact us on [Engage](https://kororaproject.org/support/engage) if you have any problems!
 
-<br />
+
 
 > There are a few [known issues](https://github.com/kororaproject/kp-documentation/wiki/Upgrading-Known-Issues) that should be reviewed before proceeding.
 

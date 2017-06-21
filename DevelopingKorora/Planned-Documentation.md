@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Planned Documentation](#planned-documentation)
@@ -8,7 +8,7 @@
     - [Canvas (when it comes along)](#canvas-when-it-comes-along)
     - [Developing for Korora](#developing-for-korora)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Planned Documentation
 

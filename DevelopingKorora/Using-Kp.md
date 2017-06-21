@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Using the Korora Packaging tool, kp](#using-the-korora-packaging-tool-kp)
@@ -14,7 +14,7 @@
   - [Create a dnf repository](#create-a-dnf-repository)
   - [Build all packages](#build-all-packages)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Using the Korora Packaging tool, kp
 
@@ -117,7 +117,7 @@ sudo setenforce  0
 Build core packages (binary and source), korora-release and korora-repos:
 
 >This creates packages under ~/code/korora/kp/build/repository/23/{source,x86_64}/
-<br />
+
 >Note that we are building these against Fedora, as we do not yet have the required local Korora repository
 
 ```

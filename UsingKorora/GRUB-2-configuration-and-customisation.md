@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Rebuilding running configuration](#rebuilding-running-configuration)
@@ -14,7 +14,7 @@
     - [2 – Change Plymouth theme](#2--change-plymouth-theme)
 - [More information](#more-information)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 GRUB 2 has been the default bootloader for Fedora and Korora for a number of releases. This is a short guide on tweaking the common settings, such as themes.
 ![img/GRUB_2_configuration_and_customisation.png](https://github.com/kororaproject/kp-documentation/blob/master/img/GRUB_2_configuration_and_customisation.png)
@@ -109,7 +109,7 @@ set color_highlight=yellow/cyan
 EOF
 ```
 
-<a href="http://members.iinet.net/~herman546/p20/GRUB2%20Splashimages.html#Splashimage_Font_Colors" title="Here">Here</a> is a nice explanation and the list of the colours supported by GRUB 2 (please ignore the 05_debian_theme as it's not related to Fedora/Korora).
+Here is a nice explanation and the list of the colours supported by GRUB 2 (please ignore the 05_debian_theme as it's not related to Fedora/Korora).
 
 #### 3 – Generate your new grub.cfg file.
 
@@ -156,8 +156,8 @@ sudo plymouth-set-default-theme details --rebuild-initrd
 That command will take a short time to finish, simple reboot when it does to see the results!
 
 ## More information
-A Korora user provided a Korora Grub2 theme, see <https://kororaproject.org/support/engage/thank/korora-grub-theme-1>
+A Korora user provided a Korora Grub2 theme, see 
 
-There is a page on the Fedora Wiki covering some additional options – <https://fedoraproject.org/wiki/Grub2>, also see <http://forums.fedoraforum.org/showthread.php?t=275112>.
+There is a page on the Fedora Wiki covering some additional options – , also see .
 
-Information on GRUB themes here – <https://github.com/Generator/Grub2-themes#faq> and <http://forums.fedoraforum.org/showthread.php?t=278536>.
+Information on GRUB themes here –  and .

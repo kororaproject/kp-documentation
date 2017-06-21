@@ -1,10 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Updating via command line](#updating-via-command-line)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## Updating via command line
 
@@ -34,6 +34,6 @@ dnf --refresh upgrade
 
 > If you need to restart the update, e.g. when a package fails to download, remove the --refresh option from the command
 
-<br />
+
 
 >If the update included a new kernel or other major system package you should reboot the system. If a new version of your desktop environment has been provided you should log out and back in.

@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Cinnamon Shortcuts](#cinnamon-shortcuts)
@@ -34,7 +34,7 @@
     - [Take Screenshot of Selected Area](#take-screenshot-of-selected-area)
     - [Record the Desktop](#record-the-desktop)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Cinnamon Shortcuts
 

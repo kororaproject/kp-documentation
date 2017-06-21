@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Installation](#installation)
@@ -8,7 +8,7 @@
   - [Xfce Power Manager](#xfce-power-manager)
   - [Xfce Xflock4 and Whisker Menu](#xfce-xflock4-and-whisker-menu)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 Many people dislike XScreensaver and its ugly unlock screen but keep it for the security of its screenlocking. Korora includes Xscreensaver with Xfce. Xscreensaver provides both the screensaver graphics and screenlocking for security. Screensaving isn't needed these days with modern monitors. It is a relic from the distant past of CRT monitors. You can disable the screensaving so it just blanks the screen. But you still have the ugly Xscreensaver screen to type your password. There is a better way.
 ### Installation

@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Creating bootable media](#creating-bootable-media)
@@ -9,7 +9,7 @@
   - [Create USB media on Windows](#create-usb-media-on-windows)
   - [Create USB media on OS X (and maybe Unix)](#create-usb-media-on-os-x-and-maybe-unix)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Creating bootable media
 
@@ -106,7 +106,7 @@ Using the example below, replace the path to the ISO image with the location you
 
 > Please be aware that this action will wipe the entire contents of the USB stick! Ensure you back up anything you want to keep on it and don't specify the wrong device.
 
-<br />
+
 > The dd command will take a long time, please do not unplug your USB stick until the command has finished on its own.
 
 
@@ -190,7 +190,7 @@ Using the example below, replace the path to the ISO image with the location you
 
 > Please be aware that this action will wipe the entire contents of the USB stick! Ensure you back up anything you want to keep on it and don't specify the wrong device.
 
-<br />
+
 
 >The dd command will take a long time, please do not unplug your USB stick until the command has finished on its own.
 

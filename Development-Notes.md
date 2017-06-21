@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Recent Changes](#recent-changes)
@@ -12,7 +12,7 @@
 - [Sync to Site](#sync-to-site)
   - [Known Incompatibilites](#known-incompatibilites)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 These are notes on the development of this section and will be removed when the wiki is operational. **Anyone with suggestions feel free to add or comment.**
 

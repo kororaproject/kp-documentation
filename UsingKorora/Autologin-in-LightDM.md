@@ -1,11 +1,11 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Autologin](#autologin)
 - [Additional Steps for Mate](#additional-steps-for-mate)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 LightDM is the default Display manager in Korora for Cinnamon, Mate and Xfce. When you start your Korora system it takes you to the LightDM so you can enter your password. However if you are the only user of the system you may prefer to bypass this screen and have Korora go straight to the desktop.
 >It is always a good idea to backup any important data before modifying system configuration.

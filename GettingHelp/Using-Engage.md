@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Using Engage](#using-engage)
@@ -8,7 +8,7 @@
     - [Links](#links)
     - [Text Boxes](#text-boxes)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Using Engage
 
@@ -37,7 +37,7 @@ There is a link to the Engage Syntax in the introduction on the Engage page. The
 While there are a number of ways to add a link, simple links can be made by enclosing the url in greater than and less than symbols. E.g.
 
 ```
-<https://kororaproject.org/support/documentation>
+
 ```
 
 ### Text Boxes

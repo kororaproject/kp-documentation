@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Accessing a Text Console](#accessing-a-text-console)
@@ -7,7 +7,7 @@
   - [Accessing a Text Console](#accessing-a-text-console-1)
   - [Example of Using a Text Console](#example-of-using-a-text-console)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Accessing a Text Console
 ## What is a Text Console?
@@ -22,7 +22,7 @@ To enter a console hold down Control and Alt, then press F2 or F3 (there used to
 
 > Beware though that F7 was also commonly used for the GUI and may still be in use on some distros.
 
-<br />
+
 
 
 >If you have a problem getting back to the GUI try using only the left Ctrl and Alt. During testing, on at least one machine, the right Ctrl and Alt keys worked in a GUI but not in a text console.

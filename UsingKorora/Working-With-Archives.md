@@ -1,5 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Working with Archives](#working-with-archives)
@@ -13,7 +13,7 @@
     - [Creating an Archive](#creating-an-archive-1)
     - [Extracting an Archive](#extracting-an-archive-1)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Working with Archives
 
