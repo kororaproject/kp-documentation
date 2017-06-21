@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Rebuilding running configuration](#rebuilding-running-configuration)
 - [Making changes](#making-changes)

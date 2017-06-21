@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Installing Korora](#installing-korora)
   - [Before you begin](#before-you-begin)

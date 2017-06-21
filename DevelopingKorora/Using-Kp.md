@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Using the Korora Packaging tool, kp](#using-the-korora-packaging-tool-kp)
   - [Requirements](#requirements)

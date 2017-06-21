@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Using Engage](#using-engage)
   - [Asking a Question](#asking-a-question)

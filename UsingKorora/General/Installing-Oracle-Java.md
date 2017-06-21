@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Installing Oracle's Java](#installing-oracles-java)
   - [Download Java](#download-java)

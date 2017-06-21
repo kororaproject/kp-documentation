@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Planned Documentation](#planned-documentation)
     - [Getting Korora](#getting-korora)

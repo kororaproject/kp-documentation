@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Installation](#installation)
 - [Remove the Screensaver (Optional)](#remove-the-screensaver-optional)

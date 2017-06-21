@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [PulseAudio Volume Control (pavucontrol)](#pulseaudio-volume-control-pavucontrol)
   - [Configuration Tab](#configuration-tab)

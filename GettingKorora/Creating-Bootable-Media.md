@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Creating bootable media](#creating-bootable-media)
   - [Create USB media on Linux](#create-usb-media-on-linux)

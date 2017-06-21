@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Sudo](#sudo)
   - [Setting up Sudo](#setting-up-sudo)

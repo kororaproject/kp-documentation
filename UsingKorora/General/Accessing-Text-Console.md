@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Accessing a Text Console](#accessing-a-text-console)
   - [What is a Text Console?](#what-is-a-text-console)

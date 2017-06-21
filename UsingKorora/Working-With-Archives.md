@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Working with Archives](#working-with-archives)
   - [Archive Types and Extensions](#archive-types-and-extensions)

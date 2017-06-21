@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Keeping Current Package Versions](#keeping-current-package-versions)
   - [With the Command Line](#with-the-command-line)

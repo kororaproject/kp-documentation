@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Contribution Guidelines](#contribution-guidelines)
   - [How To Contribute](#how-to-contribute)

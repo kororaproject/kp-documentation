@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Upgrading Korora](#upgrading-korora)
   - [Upgrading to the latest release](#upgrading-to-the-latest-release)

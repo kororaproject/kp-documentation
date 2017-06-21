@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [Cinnamon Shortcuts](#cinnamon-shortcuts)
   - [Changing the Default Shortcut Keybindings](#changing-the-default-shortcut-keybindings)

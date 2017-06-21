@@ -1,6 +1,6 @@
 
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
 - [QT Theming on GTK Desktops](#qt-theming-on-gtk-desktops)
   - [qt5ct](#qt5ct)
