@@ -43,3 +43,4 @@ After some trial and error it was found that for images to appear on kp.org they
 ### Known Incompatibilities
 The Korora website accepts HTML in documentation but it is ignored on GitHub.  
 The Korora site doesn't handle tables which work on GitHub
+The Korora site doesn't create section links which are needed for TOC so these need to be added manually
