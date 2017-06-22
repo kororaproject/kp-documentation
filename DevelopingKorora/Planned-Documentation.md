@@ -86,6 +86,7 @@ _A username after the topic indicates they are currently working on that topic_.
     - Virtualisation - _AdmiralAsshat_
         - Boxes
         - VirtManager - _AdmiralAsshat_
+        - VirtualBox (update existing draft)
 
 ### Canvas (when it comes along)
 
