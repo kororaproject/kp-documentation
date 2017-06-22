@@ -6,10 +6,27 @@
 [Gnome](#Gnome)  
 [Summary](#Summary)  
 
-So you finally decided Korora is the distro for you. However you are faced with a daunting task of which flavor or desktop environment (DE) to use. Korora currently offers: XFCE, MATE, Cinnamon, KDE Plasma, & Gnome. Exactly what is the DE? It is a complete graphical interface for the end user that ties the various software systems together. Most proprietary operating systems implement only give you the choice of one DE. However Linux is about choice so the end user can choose which DE to implement!
-There are advantages and disadvantages to each DE. Two questions can simplify the process. What type of desktop experience the user needs? What type of hardware will be running Korora? These suggestions below are only that, suggestions. Have fun and explore the DE world with Korora under that digital skin.
+So you finally decided that Korora is the distro for you. However, you are now faced with a daunting task of which flavor or desktop environment (DE) to use. Korora currently offers the following: 
+- XFCE 
+- MATE 
+- Cinnamon
+- KDE Plasma 
+- GNOME 
 
-The basic hardware requirements for Korora are: 64 bit Intel Compatible CPU, 2GB RAM, and 20GB of disk space. Any of the DEs’ can run on this hardware requirements, however some of the DEs’ may not meet the end user expectations due to poor performance.  
+Exactly what is the DE? It is a complete graphical interface for the end user that ties the various software systems together. Most proprietary operating systems only implement a single supported desktop environment. However, Linux is about choice, so the end user can choose which DE to implement!
+There are advantages and disadvantages to each DE. Two questions can simplify the process: 
+- What type of desktop experience does the user want? 
+- What type of hardware will be running Korora? 
+
+The suggestions below are only that--suggestions. Have fun and explore the DE world with Korora under that digital skin.
+
+The basic minimum hardware requirements for Korora are: 
+- 64-bit Intel Compatible CPU 
+- 2GB RAM
+- 20GB of disk space 
+
+Any of the DE's can run on these hardware requirements, however some of the DE's may not meet the end-user expectations due to poor performance.  
+
 
 ### Applications <a name="Applications"></a>
 While some DEs may include several native apps that are developed specifically for those environments all versions of Korora come with a full range of applications. See [here](https://kororaproject.org/discover) for more details.
