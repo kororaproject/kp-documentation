@@ -38,13 +38,13 @@ The Xfce desktop environment has a number of built-in shortcuts for manipulating
 We will be discussing the shortcuts as they exist on a freshly-installed instance of Korora Xfce. However, if you would like to change the default shortcuts to better suit your keyboard or workflow, you are free to do so by opening the Keyboard settings application, which can be reached by navigating through the following menu paths:
 **Menu -> Settings -> Keyboard -> Application Shortcuts** for Application and Session Shortcuts
 
-![keyboard-shortcuts](https://github.com/kororaproject/kp-documentation/img/Xfce-Shortcuts.apps.png?raw=true "apps Shortcuts window") 
+![keyboard-shortcuts](https://github.com/kororaproject/kp-documentation/blob/master/img/Xfce-Shortcuts-apps.png "apps Shortcuts window") 
 
 or
 
 **Menu -> Settings -> Window Manager -> Keyboard** for Window Mangement and Workspace shortcuts
 
-![keyboard-shortcuts](https://github.com/kororaproject/kp-documentation/img/Xfce-Shortcuts.wm.png?raw=true "WM Shortcuts window") 
+![keyboard-shortcuts](https://github.com/kororaproject/kp-documentation/blob/master/img/Xfce-Shortcuts-wm.png "WM Shortcuts window") 
 
 ## Emergency Shortcuts <a name="emergency"></a>
 
