@@ -6,6 +6,7 @@
 
 
 
+<a name="installing-skype"></a>
 # Installing Skype
 
 Skype is a popular messaging and telephony client. It isn't open source and the license prohibits redistribution however it is possible to install it using Korora's package manager or from the command line using dnf.

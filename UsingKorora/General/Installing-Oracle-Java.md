@@ -3,13 +3,14 @@
 **Table of Contents**  
 
 - [Installing Oracle's Java](#installing-oracles-java)
-  - [Download Java](#download-java)
-  - [Slotting Java](#slotting-java)
-  - [Test Java](#test-java)
-  - [Updating Java](#updating-java)
+    - [Download Java](#download-java)
+    - [Slotting Java](#slotting-java)
+    - [Test Java](#test-java)
+    - [Updating Java](#updating-java)
 
 
 
+<a name="installing-oracles-java"></a>
 # Installing Oracle's Java
 
 One of the things that Oracle did after it pried Java from Sun's cold dead hands was to change the license so that no Linux distributions could distribute it any more.
@@ -21,6 +22,7 @@ By default, Korora comes with the OpenJDK version of Java and you probably don't
 ```
 In order to install Oracle's Java it must be done manually, but fortunately it's not too difficult thanks to the way Java can be slotted (multiple versions installed) on Linux.
 
+<a name="download-java"></a>
 ## Download Java
 
 Head over to the [Java download page](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and select either the JRE (runtime environment) or the JDK (development kit) of the SE (standard edition).
@@ -56,6 +58,7 @@ rpm -ql jre
 
 You will note that Java was installed to_ /usr/java/_ however the RPM also creates a symbolic link so that _/usr/java/latest _ always points to the version you have installed. That's great because we can use that when configuring our slotting and if you upgrade the RPM in the future you will automatically be running the latest version!
 
+<a name="slotting-java"></a>
 ## Slotting Java
 
 To add that new Java to the list of slotted versions we use the alternatives command. This looks complicated, but it's installing another option for the_ /usr/bin/java_ executable (called java) which is at _/usr/java/latest/bin/java_ (where the RPM installed Java to). The number on the end sets the priority over any other java binaries (the highest number wins) when using alternatives in an automatic state (we will use manual).
@@ -77,6 +80,7 @@ sudo /usr/sbin/alternatives --install /usr/bin/javac javac /usr/java/latest/bin/
 sudo /usr/sbin/alternatives --config javac
 ```
 
+<a name="test-java"></a>
 ## Test Java
 
 Test that you're running the right version with the same version command we ran at the beginning when only OpenJDK was installed.
@@ -86,6 +90,7 @@ Test that you're running the right version with the same version command we ran 
 
 Note that you shouldn't see OpenJDK any more, but something like Java(TM) SE Runtime Environment along with the version you installed!
 
+<a name="updating-java"></a>
 ## Updating Java
 
 Unfortunately this is also a manual process, however now that you've already configured the slotting to use the latest symlink you can simply download and install the latest Java RPM as above.

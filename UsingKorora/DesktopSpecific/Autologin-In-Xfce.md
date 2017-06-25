@@ -6,6 +6,7 @@
 
 
 
+<a name="autologin-in-xfce"></a>
 # Autologin in Xfce
 
 When you start your Korora system it takes you to the LightDM so you can enter your password and start Xfce. However if you are the only user of the system you may prefer to bypass this screen and have Korora go straight to the desktop.

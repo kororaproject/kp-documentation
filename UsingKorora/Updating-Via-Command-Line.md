@@ -6,6 +6,7 @@
 
 
 
+<a name="updating-via-command-line"></a>
 ## Updating via command line
 
 Korora has a command line which is extremely powerful and flexible. Learning how to use it is something that all good Linux users should be able to do without being scared. Here's how to update your system using the command line.

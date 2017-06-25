@@ -2,6 +2,7 @@
 
 **Table of Contents**  
 
+- [Files](#files)
 - [Rebuilding running configuration](#rebuilding-running-configuration)
 - [Making changes](#making-changes)
 - [Adding a background](#adding-a-background)
@@ -20,6 +21,8 @@ GRUB 2 has been the default bootloader for Fedora and Korora for a number of rel
 ![img/GRUB_2_configuration_and_customisation.png](https://github.com/kororaproject/kp-documentation/blob/master/img/GRUB_2_configuration_and_customisation.png)
 
 >It is always a good idea to backup any important data before modifying system configuration.
+
+<a name="files"></a>
 ## Files
 Unlike legacy GRUB where there was a single running configuration file, with GRUB 2 there is a default configuration file and a command line tool that generates the running config.
 
@@ -29,6 +32,7 @@ There are a couple of important files.
 
 **/etc/default/grub** – this file contains the options used to create the running _grub.cfg_ config and is expected to be edited (as root).
 
+<a name="rebuiding-running-configuration"></a>
 ## Rebuilding running configuration
 As we mention above, you do not edit the running GRUB 2 configuration file in GRUB 2 but rather run a tool after you have made changes to the default config file, */etc/default/grub*.
 
@@ -42,6 +46,7 @@ or for EFI system sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
 
 Unlike legacy GRUB, this step needs to be repeated every time you change the default GRUB 2 configuration.
 
+<a name="making-changes"></a>
 ## Making changes
 As with previous versions you can call up the running GRUB menu when you turn on your computer by pressing any key before the kernel loads and use the edit options there for one time changes. This is a good way to test a change before you add it permanently to the config file. Simply follow the on-screen instructions to do this.
 
@@ -57,6 +62,7 @@ If you don’t have a dual boot system you could change the line *GRUB_TIMEOUT=5
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
+<a name="adding-a-background"></a>
 ## Adding a background
 Korora has a basic white on black screen which is functional but doesn't look too good. If you prefer a background, as in previous versions, there are a few steps involved.
 
@@ -80,14 +86,17 @@ You can substitute any similarly sized *.png* or *.jpg* file for the background,
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
+<a name="changing-the-colours-related-to-the-fonts"></a>
 ## Changing the colours related to the fonts
 
+<a name="1--first-of-all-open-the-41_custom-file-with-your-favourite-editor"></a>
 #### 1 – First of all, open the 41_custom file with your favourite editor.
 
 ```bash
 sudo nano -w /etc/grub.d/41_custom
 ```
 
+<a name="2--in-that-file-between-the-lines-_fi_-and-_eof_-add-these-two-lines"></a>
 #### 2 – In that file between the lines _fi_ and _EOF_ add these two lines.
 
 ```bash
@@ -111,13 +120,16 @@ EOF
 
 Here is a nice explanation and the list of the colours supported by GRUB 2 (please ignore the 05_debian_theme as it's not related to Fedora/Korora).
 
+<a name="3--generate-your-new-grubcfg-file"></a>
 #### 3 – Generate your new grub.cfg file.
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
+<a name="seeing-startup-details"></a>
 ## Seeing startup details
 Some of us prefer to see what is happening when the system boots rather than the pretty animations that Plymouth provides. There are two ways to achieve this, edit the GRUB config or change the Plymouth theme.
 
+<a name="1--editing-grub-configuration"></a>
 #### 1 – Editing GRUB configuration
 
 Edit the default GRUB 2 config file as root (substitute _nano -w_ for your favourite editor, such as _gedit_ for GNOME or _kwrite_ for KDE).
@@ -130,6 +142,7 @@ Find the *GRUB_CMDLINE_LINUX* entry and remove *rhgb* from the line and saving t
 
 Now rebuild your running configuration using the _Rebuilding Running Configuration_ instructions above, you can reboot and test your changes!
 
+<a name="2--change-plymouth-theme"></a>
 #### 2 – Change Plymouth theme
 
 List the available Plymouth themes.
@@ -155,6 +168,7 @@ sudo plymouth-set-default-theme details --rebuild-initrd
 
 That command will take a short time to finish, simple reboot when it does to see the results!
 
+<a name="more-information"></a>
 ## More information
 A Korora user provided a Korora Grub2 theme, see 
 

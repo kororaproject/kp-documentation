@@ -3,11 +3,12 @@
 **Table of Contents**  
 
 - [QT Theming on GTK Desktops](#qt-theming-on-gtk-desktops)
-  - [qt5ct](#qt5ct)
-  - [Qt-config](#qt-config)
+    - [qt5ct](#qt5ct)
+    - [Qt-config](#qt-config)
 
 
 
+<a name="qt-theming-on-gtk-desktops"></a>
 # QT Theming on GTK Desktops
 
 There are 2 common toolkits used to create applications and desktops in Linux systems. These are GTK and Qt. All desktops in Korora apart from KDE Plasma are built on GTK, Plasma is built on Qt. However most applications are built on one or the other. There are a few applications such as Dnfdragora which come with GUI interfaces for both toolkits but most only use one. It is fine to use QT applications on GTK desktops however they may not honour the look and feel of GTK themes.
@@ -18,6 +19,7 @@ The latest version is 5 and qt5ct is used to configure Qt5 applications. Those b
 
 >Some QT applications include appearance settings in their Preferences. These may be used as well to mimic the appearance of your GTK theme. Try setting the general configuration with the Qt config utilities and then fine tune within the application.
 
+<a name="qt5ct"></a>
 ## qt5ct
 
 qt5ct can be installed with `sudo dnf install qt5ct`. Once installed qt5ct will appear in your menu as "Qt5 Settings". The actual location will depend on your desktop but check under Settings or similar.
@@ -32,6 +34,7 @@ Under Interface there are several options. You can even select to have some visu
 
 The final tab is for a custom style sheet. Usually this will be left blank.
 
+<a name="qt-config"></a>
 ## Qt-config
 
 qt-config can be installed with `sudo dnf install qt-config`. Once installed it will appear in the menu as "Qt4 Config". The actual location will depend on your desktop but check under Settings or similar.

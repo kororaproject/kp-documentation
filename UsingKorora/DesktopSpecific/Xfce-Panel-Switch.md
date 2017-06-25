@@ -6,6 +6,7 @@
 
 
 
+<a name="xfce-panel-switch"></a>
 # Xfce Panel Switch
 
 Korora includes a useful utility that is hidden at the end of the Settings Menu, Xfce Panel Switch. As the name suggests it provides a facility to switch panel settings as you work. It also provides a backup facility.

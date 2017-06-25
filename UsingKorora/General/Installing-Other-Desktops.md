@@ -3,34 +3,39 @@
 **Table of Contents**  
 
 - [Installing Other Desktops](#installing-other-desktops)
-  - [Why would you install other DEs?](#why-would-you-install-other-des)
-  - [Installation](#installation)
-  - [Method 1.](#method-1)
-  - [Method 2.](#method-2)
-  - [Removing the New Desktop](#removing-the-new-desktop)
+    - [Why would you install other DEs?](#why-would-you-install-other-des)
+    - [Installation](#installation)
+    - [Method 1.](#method-1)
+    - [Method 2.](#method-2)
+    - [Removing the New Desktop](#removing-the-new-desktop)
 
 
 
+<a name="installing-other-desktops"></a>
 # Installing Other Desktops
 
 Korora comes with a choice of a number of desktop environments (DEs) however as Korora is based on Fedora there is a large range of alternate environments and window managers you can add to Korora. These include Openbox, LXDE, Sugar and E17 from the Fedora repos and E18 Enlightenment and LXQT are available from external repos. You can also add another of desktops Korora offers.
 
+<a name="why-would-you-install-other-des"></a>
 ## Why would you install other DEs?
 
 Each has its own features and advantages e.g. Enlightenment and the various *Box variants are known to be very light and so work well on older, slower hardware (or blazingly fast on new hardware :) ) or you may want to try the latest DE like LXQT. Sugar is designed as a learning environment for children. You can have as many DE’s as you want or have disk space for.
 
+<a name="installation"></a>
 ## Installation
 
 Before following either of these methods it is best to do a full update sudo dnf --refresh upgrade. If you get any major updates including a new kernel, reboot.
 
 > It is always a good idea to backup any important data before modifying system configuration.
 
+<a name="method-1"></a>
 ## Method 1.
 
 You can install any DE with the command `sudo dnf install @de-desktop` where de is the desktop name, e.g. `sudo dnf install @lxde-desktop` will install Lxde. However this will bring in the entire desktop including many applications which will duplicate applications you already have installed e.g. each desktop environment has its own file manager. A better way is to use Yumex as in the second method.
 
 When it completes log out or reboot. At the login screen you will have the option to select the new environment. The environment you last logged into will be the default for future logins until you manually select a different one.
 
+<a name="method-2"></a>
 ## Method 2.
 
 Yumex is the graphical front end for the command line yum command. It is included with Korora and in the menu. Yumex lets you easily select and unselect packages, showing you basic information on each package to help you choose and it will then install the selected packages.
@@ -51,6 +56,7 @@ When it completes log out or reboot. At the login screen you will have the optio
 
 Explore and try something new.
 
+<a name="removing-the-new-desktop"></a>
 ## Removing the New Desktop
 
 The new desktop can be left in the system even if you don't use it. Using the reverse commands to those above, i.e. replacing the install with remove, will remove packages needed by your system and so should never be done.
