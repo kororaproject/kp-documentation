@@ -6,6 +6,7 @@
 
 
 
+<a name="iso-testing"></a>
 # ISO Testing
 
 Before being released all Korora ISO's should be checked that they provide the best possible experience and don't include any problems that reflect poorly on our project. A set testing routine aims to achieve a consistent standard across all Korora systems.

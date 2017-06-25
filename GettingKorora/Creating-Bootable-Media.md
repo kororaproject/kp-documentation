@@ -3,14 +3,15 @@
 **Table of Contents**  
 
 - [Creating bootable media](#creating-bootable-media)
-  - [Create USB media on Linux](#create-usb-media-on-linux)
-    - [Fedora Live USB Creator](#fedora-live-usb-creator)
-    - [The dd command](#the-dd-command)
-  - [Create USB media on Windows](#create-usb-media-on-windows)
-  - [Create USB media on OS X (and maybe Unix)](#create-usb-media-on-os-x-and-maybe-unix)
+    - [Create USB media on Linux](#create-usb-media-on-linux)
+        - [Fedora Live USB Creator](#fedora-live-usb-creator)
+        - [The dd command](#the-dd-command)
+    - [Create USB media on Windows](#create-usb-media-on-windows)
+    - [Create USB media on OS X (and maybe Unix)](#create-usb-media-on-os-x-and-maybe-unix)
 
 
 
+<a name="creating-bootable-media"></a>
 # Creating bootable media
 
 Your Korora image is a live system meaning it's a complete operating system, designed to be booted directly from a USB memory stick. It does not write to your hard disk unless you run the installer, after which time you can boot Korora directly from your computer in non-live mode.
@@ -29,10 +30,12 @@ The Korora images are all named in a similar manner and include the version, arc
 > We highly recommend that you test the media on your first boot by selecting the Test this media and boot Korora option from the Troubleshooting menu (already the default on EFI systems). This will help to catch any problems due to corrupt download or incomplete write to USB.
 
 
+<a name="creating-usb-media-on-linux"></a>
 ## Create USB media on Linux
 
 There are a number of generic tools such as [UNetbootin](http://unetbootin.sourceforge.net/), however these are known to sometimes fail with Fedora. Our recommended method for creating USB media is to use the [Fedora Live USB Creator](https://fedorahosted.org/liveusb-creator/) tool, however it may not be available for your distribution. If not, the only reliable method is to use the _dd_ tool (or a derived program).
 
+<a name="fedora-live-usb-creator"></a>
 ### Fedora Live USB Creator
 
 To use Fedora Live USB Creator you must have a FAT32 formatted USB stick of greater size than the ISO image you want to write. Plug this in first and ensure it's available (in our example it's called USBSTICK at /dev/sdb1).
@@ -76,6 +79,7 @@ Complete! (0:14:20)
 
 Now that USB stick is ready to boot Korora!
 
+<a name="the-dd-command"></a>
 ### The dd command
 
 Using the dd command is the single most reliable method of creating the USB media, as it writes the exact ISO image to the USB stick, overwriting any existing partitions and data. It does not support persistence mode, however.
@@ -124,6 +128,7 @@ sync
 
 Make sure that the USB stick has finished writing before you unplug it and it should now be ready to boot Korora!
 
+<a name="creating-usb-media-on-windows"></a>
 ## Create USB media on Windows
 
 Windows users can download and install the LiveUSB creator tool to easily make the bootable USB stick. Download (from that site only) and install the software onto your computer.
@@ -159,6 +164,7 @@ Complete! (0:14:20)
 
 Now that USB stick is ready to boot Korora!
 
+<a name="create-usb-media-on-os-x-and-maybe-unix"></a>
 ## Create USB media on OS X (and maybe Unix)
 There is no approved tool for other Unix operating systems such as OS X, so you must use the dd command. When using the dd tool, it will wipe the entire USB stick, so it doesn't matter what partition or file system it already has on there. Also, dd must write to the root device **not** a partition on the device.
 
