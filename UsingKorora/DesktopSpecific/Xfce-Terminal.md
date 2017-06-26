@@ -19,3 +19,10 @@ In Edit there is a preferences option with a new DropDown tab. Make your choices
 There is an option for a panel indicator too, it will appear in the notification area. Clicking on the panel icon will open the terminal. Right clicking gives access to the Preferences and an option to close the terminal.
 
 This is a great option for Xfce users wanting the convenience of a drop down terminal.
+
+### Xfce Terminal Shortcuts
+There are a few keyboard shortcuts that can be useful, 
+- **ctrl+shift+t** – open a new tab
+- **ctrl+pgup** – moves to the next tab 
+- **ctrl+shift+up or down** – scrolls up or down
+- **shift+pgup or pgdn** – scrolls up or down a page at a time
