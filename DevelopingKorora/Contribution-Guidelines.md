@@ -37,4 +37,10 @@ All images are to be placed in the `img `folder.
 
 When naming your images please name them using the name of your file and if multiple images, further name them with a number or heading for which they are under, for example: `Contribution-Guidelines-Fork.png`.
 
+For images that are hosted in the repo to appear in documents on the Korora website they require the full path with `?raw=true` appended e.g.
+```
+![Contribution-Guidelines-Fork](https://github.com/kororaproject/kp-documentation/blob/master/img/Contribution-Guidelines-Fork.png?raw=true)
+```
+
+
 Anyone with any questions or unable to contribute in this format please contact us at **team@kororaproject.org**.
