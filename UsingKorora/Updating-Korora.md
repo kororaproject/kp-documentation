@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Updating Korora](#updating-korora)
+
+
+
+<a name="updating-korora"></a>
 # Updating Korora
 
 Korora regularly provides updates to the packages that make up the system. These include security updates, bug fixes or newer versions of software. All systems should be updated regularly to ensure the system operates in the most efficient and secure manner possible.

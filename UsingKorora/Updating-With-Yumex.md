@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Updating with Yumex](#updating-with-yumex)
+
+
+
+<a name="updating-with-yumex"></a>
 # Updating with Yumex
 
 The Yum Extender, aka Yumex, is included with all versions of Korora because it provides a consistent interface across all desktops. Yumex is the most popular GUI for package management and is the default graphical Package Manager in Xfce and Cinnamon.

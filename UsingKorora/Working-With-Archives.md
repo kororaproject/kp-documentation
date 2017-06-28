@@ -1,7 +1,26 @@
+
+
+**Table of Contents**  
+
+- [Working with Archives](#working-with-archives)
+    - [Archive Types and Extensions](#archive-types-and-extensions)
+        - [Tar](#tar)
+        - [Zip](#zip)
+    - [Within the File Manager](#within-the-file-manager)
+        - [Creating an Archive](#creating-an-archive)
+        - [Extracting an Archive](#extracting-an-archive)
+    - [Within the Terminal](#within-the-terminal)
+        - [Creating an Archive](#creating-an-archive-1)
+        - [Extracting an Archive](#extracting-an-archive-1)
+
+
+
+<a name="working-with-archives"></a>
 # Working with Archives
 
 At some point, you will probably have to deal with a compressed archive file. Archives allow you to lump multiple files or directories together into a single file, making it easier for transportation.
 
+<a name="archive-types-and-extensions"></a>
 ## Archive Types and Extensions
 
 Because there are multiple types of archives (they often vary by the kind of compression algorithm used), the easiest way to distinguish one over the other is via its file extension. Below are some of the most common archive formats used and their extensions:
@@ -18,31 +37,38 @@ tar | .tar
 tar ( gzip compression) | .gz, .tgz
 tar (bzip2 compression) | .bz2
 
+<a name="tar"></a>
 ### Tar
 
 The most common type of archive in the UNIX/Linux world is the tape archive or **tar** file, sometimes called a **tarball**. tar is heavily used due to its history and flexibility. While the packaging format will remain the same, the type of compression used on compressed tar archives can be changed at runtime in order to accommodate better compression or better performance.
 
+<a name="zip"></a>
 ### Zip
 
 The zip archive format was originally designed for DOS and Windows systems, and is still used heavily within those operating systems. However, zip archives are readable on Linux as well, and can be easily extracted using the `unzip` command.
 
+<a name="within-the-file-manager"></a>
 ## Within the File Manager
 
 Most File Managers allow direct creation or extraction of recognized archives without needing to enter the Terminal. 
 
+<a name="creating-an-archive"></a>
 ### Creating an Archive
 To create an archive, highlight a file, a series of files, or a directory, and right click on the selection. Then select the **Compress...** option. You may be prompted for what kind of archive to create, and what kind of compression, if any, to use.
 
+<a name="extracting-an-archive"></a>
 ### Extracting an Archive
 
 To extract an existing archive that you have already created or downloaded, right-click on the archive file inside your File Manager. Select the option **Extract**. If the File Manager recognizes the extension, it will attempt to extract the contents of the archive automatically. If the archive has been protected or encrypted with a password, you may be prompted to enter the password before the archive's contents can be completely extracted.
 
 Alternatively, your desktop environment likely has an Archive Manager application pre-installed. In which case, simply double-clicking the archive should launch the Archive Manager and allow you to extract its contents.
 
+<a name="within-the-terminal"></a>
 ## Within the Terminal
 
 Should you ever need to manipulate archives (for instance, if you want to run a program whose installation instructions reads "Untar this package and run the installer script"), it couldn't hurt to be able to do it in a terminal.
 
+<a name="creating-an-archive"></a>
 ### Creating an Archive
 
 As mentioned previously, the most common archive format is the tarball with some kind of compression. To create a basic tarball, enter the following command:
@@ -77,6 +103,7 @@ Take careful note of the order in which the arguments are passed to the tar comm
 All of the above are valid and maintain consistent syntax, even though the number of files being archived changes.
 
 
+<a name="extracting-an-archive"></a>
 ### Extracting an Archive
 
 To extract the contents of a tarball, use the `-x` flag (Short for "e**X**tract"), along with any additional flags necessary to specify the type of compression used. For example, to extract a basic, non-compressed tarball, you would type the following:

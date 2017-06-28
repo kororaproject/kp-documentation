@@ -1,3 +1,16 @@
+
+
+**Table of Contents**  
+
+- [Planned Documentation](#planned-documentation)
+    - [Getting Korora](#getting-korora)
+    - [Using Korora](#using-korora)
+    - [Canvas (when it comes along)](#canvas-when-it-comes-along)
+    - [Developing for Korora](#developing-for-korora)
+
+
+
+<a name="planned-documentation"></a>
 # Planned Documentation
 
 The following are suggested topics to be added to the documentation section. These are only suggestions and shouldn't be considered a limiting factor for submissions. Any topic connected with using Korora may be suitable for inclusion.
@@ -6,11 +19,13 @@ Any submissions are gratefully accepted, see [here ](https://github.com/kororapr
 
 _A username after the topic indicates they are currently working on that topic_. Please create a Pull request for any alterations or email **team@kororaproject.org** .
 
+<a name="getting-korora"></a>
 ### Getting Korora
 
 - Version Timetable
 - Supported Versions
 
+<a name="using-korora"></a>
 ### Using Korora
 
 - Desktop specific
@@ -88,8 +103,10 @@ _A username after the topic indicates they are currently working on that topic_.
         - VirtManager - _AdmiralAsshat_
         - VirtualBox (update existing draft)
 
+<a name="canvas-when-it-comes-along"></a>
 ### Canvas (when it comes along)
 
+<a name="developing-for-korora"></a>
 ### Developing for Korora
 
  - Git Intro

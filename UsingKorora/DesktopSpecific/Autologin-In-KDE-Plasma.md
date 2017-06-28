@@ -1,9 +1,20 @@
+
+
+**Table of Contents**  
+
+- [Autologin in KDE Plasma](#autologin-in-kde-plasma)
+    - [Autologin](#autologin)
+
+
+
+<a name="autologin-in-kde-plasma"></a>
 # Autologin in KDE Plasma
 
 When you start your Korora system it takes you to the SDDM so you can enter your password and start Plasma. However if you are the only user of the system you may prefer to bypass this screen and have Korora go straight to the desktop.
 
 >It is always a good idea to backup any important data before modifying system configuration.
 
+<a name="autologin"></a>
 ## Autologin
 
 It is possible to set SDDM to log in to the default user without asking for a password.

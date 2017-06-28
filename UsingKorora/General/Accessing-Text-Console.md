@@ -1,21 +1,37 @@
+
+
+**Table of Contents**  
+
+- [Accessing a Text Console](#accessing-a-text-console)
+    - [What is a Text Console?](#what-is-a-text-console)
+    - [Accessing a Text Console](#accessing-a-text-console-1)
+    - [Example of Using a Text Console](#example-of-using-a-text-console)
+
+
+
+<a name="accessing-a-text-console"></a>
 # Accessing a Text Console
+
+<a name="what-is-a-text-console"></a>
 ## What is a Text Console?
 
 Modern Linux systems use a Graphical User Interface (GUI) to interact with the user. However, there is still a non graphical or text user interface available. It provides direct access to the operating system without the desktop environment getting in the way.
 
 While it is possible to work in a text console all the time you would normally only use it when there are problems that can't be fixed in a GUI or you can't get to a GUI.
 
+<a name="accessing-a-text-console-1"></a>
 ## Accessing a Text Console
 
 To enter a console hold down Control and Alt, then press F2 or F3 (there used to be more of these). It is just a method of navigating you around different desktops, F1 is the standard GUI screen and F2 & F3 are text consoles. All of them can be performing different tasks simultaneously and any user of any level can find them useful. You do not lose the GUI by switching to a console, a simple press of Ctrl + Alt + F1 will take you back.
 
 > Beware though that F7 was also commonly used for the GUI and may still be in use on some distros.
 
-<br />
+
 
 
 >If you have a problem getting back to the GUI try using only the left Ctrl and Alt. During testing, on at least one machine, the right Ctrl and Alt keys worked in a GUI but not in a text console.
 
+<a name="example-of-using-a-text-console"></a>
 ## Example of Using a Text Console
 
 As an example to see what processes are running - What you do is: `Ctrl + Alt + F2` _You should be taken to a text console_.

@@ -1,17 +1,37 @@
+
+
+**Table of Contents**  
+
+- [Installing Korora](#installing-korora)
+    - [Before you begin](#before-you-begin)
+    - [Secure boot](#secure-boot)
+    - [Fast shutdown](#fast-shutdown)
+    - [INSTALLING KORORA AS A SOLE OS (SINGLE BOOT)](#installing-korora-as-a-sole-os-single-boot)
+        - [Language](#language)
+        - [Installation Summary](#installation-summary)
+        - [Configuration](#configuration)
+    - [INSTALLING KORORA AS MULTIPLE BOOT (DUAL BOOT)](#installing-korora-as-multiple-boot-dual-boot)
+
+
+
+<a name="installing-korora"></a>
 # Installing Korora
 
 Being a Fedora Remix, Korora inherits the [Anaconda](https://fedoraproject.org/wiki/Anaconda) installer for all of our images. Having undergone a massive re-write in 2012 it has seen solid improvements since then. This document walks you through the installation of Korora onto your hard disk. We try to cover common scenarios, including EFI as it is becoming more common these days.
 
+<a name="before-you-begin"></a>
 ## Before you begin
 
 > It's always a good idea to backup any important data before installing any operating system and Korora is no different.
 
 Korora is able to dualboot Windows, however if you are using Windows 8 or later versions, there are some things you should do before installing Korora.
 
+<a name="secure-boot"></a>
 ## Secure boot
 
 Secure boot is _not_ an integral part of EFI, although it should work on Korora you may wish to turn it off. You do this by entering your computer's EFI setup and look for a way to disable it. Unfortunately how you enter the EFI is different with every brand of computer, as is the menu location for disabling Secure Boot.
 
+<a name="fast-shutdown"></a>
 ## Fast shutdown
 
 Windows 8 implements a fast shutdown feature that helps speed up shutdown and startup operations on a single-boot computer. Unfortunately, this feature can cause filesystem corruption if it's used on a multi-boot computer. You can disable the feature under Windows by launching an Administrator Command Prompt and typing:
@@ -34,6 +54,7 @@ Now you're ready to go.
 
 Let me repeat that: If you have data on the hard drive on which you are about to install Korora, installing Korora will wipe out any data you currently have on that particular drive. So if you want to save some/all of the data on your drive, back it up first.
 
+<a name="installing-korora-as-a-sole-os-single-boot"></a>
 ## INSTALLING KORORA AS A SOLE OS (SINGLE BOOT)
 
 Insert your Live USB drive into your computer and boot (or reboot, if it is already running). Once you are up and running, you will get the desktop screen of your desktop of choice which should automatically have a Korora Welcome window appear in the centre. This window is just a "thank you," along with some buttons which take you to various locations in the Korora infrastructure.
@@ -44,10 +65,12 @@ The install program is Anaconda, which is the Fedora Project's installer. Anacon
 
 So if you click on the icon on the desktop that says "Install to Hard Drive," or click on "Install Korora" from the Korora Welcome window, Anaconda will start. Anaconda will take you through the installation process with the following screens:
 
+<a name="language"></a>
 ### Language
 
 Here you will chose the language with which you will use the new software. Click on Continue in the lower right to go to the next screen, which is
 
+<a name="installation-summary"></a>
 ### Installation Summary
 
 Here you will set your Date/Time by the time zone in which you live, set your keyboard preference in Keyboard, set the destination for your installation (your hard drive) in Installation Destination, and set your Network Configuration (note: you need not be connected to install, but it doesn't hurt to be connected during the installation process. The Network Configuration allows you to connect to your network during the install).
@@ -60,6 +83,7 @@ If you are installing on a disk which already has a Linux distro or other operat
 
 Once you do this, you will return to the Installation Summary window and your System field will no longer have the warning icon. If you're ready to install, you can click the Begin Installation button in the lower right corner.
 
+<a name="configuration"></a>
 ### Configuration
 
 While the software is installing on your hard drive, you can set your Root Password and create your User Account.
@@ -72,6 +96,7 @@ At this point, the installation should be continuing along, with the progress me
 
 From your desktop, you can reboot and start using Korora.
 
+<a name="installing-korora-as-multiple-boot-dual-boot"></a>
 ## INSTALLING KORORA AS MULTIPLE BOOT (DUAL BOOT)
 
 There have been reports that scripts such as Easy2boot and Grub4dos conflict with the Grub setup created by Anaconda so their use cannot be recommended.

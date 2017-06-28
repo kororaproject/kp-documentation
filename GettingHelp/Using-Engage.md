@@ -1,3 +1,16 @@
+
+
+**Table of Contents**  
+
+- [Using Engage](#using-engage)
+    - [Asking a Question](#asking-a-question)
+    - [Common Engage Syntax Questions](#common-engage-syntax-questions)
+        - [Links](#links)
+        - [Text Boxes](#text-boxes)
+
+
+
+<a name="using-engage"></a>
 # Using Engage
 
 [Engage](https://kororaproject.org/support/engage) is your official portal to the Korora Community. Here you can search through the available questions and thanks that other members have posted. Alternatively, submit your own and let the community help you.
@@ -8,6 +21,7 @@ When you open Engage there is a brief introduction that includes links to Engage
 
 There are 2 options for creating a new Engage item. The first is to ask a question. The second is to Say Thanks.
 
+<a name="asking-a-question"></a>
 ## Asking a Question
 
 Before starting new item use the search facility to see if your question has already been answered. Many questions are asked more than once but why wait for someone to answer you if the issue has already been discussed. Also check the [documentation section](https://github.com/kororaproject/kp-documentation/wiki) for any guides that may answer your question.
@@ -16,18 +30,21 @@ If you do start a new item include all relevant information. This includes the v
 
 Next detail the issue, specifically the steps needed to recreate it. Also mention what you have tried so far. If you used a guide from another site please provide a link to that guide.
 
+<a name="common-engage-syntax-questions"></a>
 ## Common Engage Syntax Questions
 
 There is a link to the Engage Syntax in the introduction on the Engage page. There is also a question mark above reply box that links to the information. However here are a couple of items that are used regularly.
 
+<a name="links"></a>
 ### Links
 
 While there are a number of ways to add a link, simple links can be made by enclosing the url in greater than and less than symbols. E.g.
 
 ```
-<https://kororaproject.org/support/documentation>
+
 ```
 
+<a name="text-boxes"></a>
 ### Text Boxes
 
 When posting small test outputs please use text boxes. Text in text boxes will be properly formatted and easier to read. Note for large amounts of text use a paste service such as [fpaste](https://github.com/kororaproject/kp-documentation/wiki/Fpaste). To create a text box open and close it with 3 x backticks, E.g.

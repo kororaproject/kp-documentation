@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Updating via command line](#updating-via-command-line)
+
+
+
+<a name="updating-via-command-line"></a>
 ## Updating via command line
 
 Korora has a command line which is extremely powerful and flexible. Learning how to use it is something that all good Linux users should be able to do without being scared. Here's how to update your system using the command line.
@@ -26,6 +35,6 @@ dnf --refresh upgrade
 
 > If you need to restart the update, e.g. when a package fails to download, remove the --refresh option from the command
 
-<br />
+
 
 >If the update included a new kernel or other major system package you should reboot the system. If a new version of your desktop environment has been provided you should log out and back in.

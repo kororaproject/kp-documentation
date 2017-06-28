@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Solving Audio Issues](#solving-audio-issues)
+
+
+
+<a name="solving-audio-issues"></a>
 # Solving Audio Issues
 
 Most audio issues are easily solved using the installed tools in Korora. Common audio issues include no sound and sound not playing on the desired output device. The included tools include the PulseAudio Volume Control which is used to solve most issues. Also included are the command line Alsamixer and possibly a desktop environment’s own mixer. However these are rarely needed.

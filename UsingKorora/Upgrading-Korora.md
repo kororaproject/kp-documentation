@@ -1,17 +1,29 @@
+
+
+**Table of Contents**  
+
+- [Upgrading Korora](#upgrading-korora)
+    - [Upgrading to the latest release](#upgrading-to-the-latest-release)
+    - [Optional: Upgrade the Rescue Kernel](#optional-upgrade-the-rescue-kernel)
+
+
+
+<a name="upgrading-korora"></a>
 # Upgrading Korora
 
 Korora uses Fedora's tools, so upgrading is easy! Here we'll will show you how to upgrade from one release to a new one.
 
 > This should work reliably, however you still do so at your own risk (like any upgrade). If this fails, then you will need to perform a re-install so please make sure you've backed up important data.
 
-<br />
+
 
 > Contact us on [Engage](https://kororaproject.org/support/engage) if you have any problems!
 
-<br />
+
 
 > There are a few [known issues](https://github.com/kororaproject/kp-documentation/wiki/Upgrading-Known-Issues) that should be reviewed before proceeding.
 
+<a name="upgrading-to-the-latest-release"></a>
 ## Upgrading to the latest release
 
 The upgrade is performed with the help of a plugin to the system's package manager, dnf (previously there was a dedicated tool called FedUp).
@@ -57,6 +69,7 @@ Finally, your system should reboot into the freshly upgraded system.
 
 You're now ready to enjoy your upgraded system.
 
+<a name="optional-upgrade-the-rescue-kernel"></a>
 ## Optional: Upgrade the Rescue Kernel
 
 > This should be left until the upgraded system is tested and works reliably.

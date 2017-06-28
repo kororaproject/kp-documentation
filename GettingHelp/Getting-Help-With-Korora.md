@@ -1,3 +1,13 @@
+
+
+**Table of Contents**  
+
+- [Getting help with Korora](#getting-help-with-korora)
+    - [Engage Guidelines](#engage-guidelines)
+
+
+
+<a name="getting-help-with-korora"></a>
 # Getting help with Korora
 
 There are a number of ways of getting help with Korora - [https://kororaproject.org/support](https://kororaproject.org/support) Korora uses a custom open source support system called Engage. We feel it's pretty self explanatory, but some details on how to use it are coming soon!
@@ -8,6 +18,7 @@ Engage uses a powerful syntax system which allows you to format your posts and a
 
 Korora is based on community involvement so please help out where ever you can. If you can contribute to a discussion on Engage or irc please jump in.
 
+<a name="engage-guidelines"></a>
 ## Engage Guidelines
 
 To make using Engage enjoyable and useful for everyone there are some guidelines. While they are mostly common sense and good manners please take the time to read through them, there isn't that much.

@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Autologin in Mate](#autologin-in-mate)
+
+
+
+<a name="autologin-in-mate"></a>
 # Autologin in Mate
 
 When you start your Korora system it takes you to the LightDM so you can enter your password and start Mate. However if you are the only user of the system you may prefer to bypass this screen and have Korora go straight to the desktop.

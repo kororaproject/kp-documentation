@@ -1,3 +1,12 @@
+
+
+**Table of Contents**  
+
+- [Getting Korora](#getting-korora)
+
+
+
+<a name="getting-korora"></a>
 # Getting Korora
 
 You've taken a look at the site and you might be wondering to yourself, "How can I take a look at this great Linux distribution?"
