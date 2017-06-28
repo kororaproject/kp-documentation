@@ -16,23 +16,25 @@
 <a name="contribution-guidelines"></a>
 # Contribution Guidelines
 
-**Guidlines for those that wish to contribute to the Korora Documentation.**
+**Guidelines for those that wish to contribute to the Korora Documentation.**
 
-> We welcome all contributions to the Korora Documentation but please follow these guidlines.
+> We welcome all contributions to the Korora Documentation but please follow these guidelines.
 
 <a name="how-to-contribute"></a>
 ## How To Contribute
 
-If you wish to contribute to the Korora Docs, first you must create a GitHub account if you have not already done so.
+If you wish to contribute to the Korora Docs via GitHub, first you must create a GitHub account if you have not already done so.
 
 You must then  fork the repo ( you will find the button at the top of the page).
 
 ![](img/Contibution-Guidelines-Fork.png)
 
-You must then submit a pull request for any new documentation you may add, which will then be subject to review before inclusion.
+You must then submit a pull request for any new documentation you may add, which will then be subject to review before inclusion. Korora documentation uses the [same syntax for formatting](https://kororaproject.org/support/engage/syntax) as Engage. For both new documents and improvements / updates to existing documents please create one pull request for each document.
+
 
 <a name="file-hierarchy"></a>
-## File Heirachy
+## File Hierarchy
+
 
 <a name="gettingkorora"></a>
 ### GettingKorora
@@ -54,10 +56,17 @@ When adding new files, please follow the following file naming guidlines:
 3. All files must be in markdown format (`.md`)
 4. If using multiple words in the file name, use CamelCase and seperate each word with a hyphen (eg: `Using-Korora.md`)
 
+
 <a name="image-naming-conventions"></a>
 ## Image Naming Conventions
 All images are to be placed in the `img `folder.
 
-When naming your images please name them using the name of your file and if multiple images, further name them with a number or heading for which they are under, for example: `Contibution-Guidelines-Fork.png`.
+When naming your images please name them using the name of your file and if multiple images, further name them with a number or heading for which they are under, for example: `Contribution-Guidelines-Fork.png`.
+
+For images that are hosted in the repo to appear in documents on the Korora website they require the full path with `?raw=true` appended e.g.
+```
+![Contribution-Guidelines-Fork](https://github.com/kororaproject/kp-documentation/blob/master/img/Contribution-Guidelines-Fork.png?raw=true)
+```
+
 
 Anyone with any questions or unable to contribute in this format please contact us at **team@kororaproject.org**.

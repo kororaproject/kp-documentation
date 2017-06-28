@@ -69,38 +69,43 @@ _A username after the topic indicates they are currently working on that topic_.
        - etc.
 
  - Applications
-   - Gimp
-   - Libreoffice
-   - Firefox
-   - etc.
+    - Gimp
+    - Libreoffice
+    - Firefox
+    - etc.
 
 - Adding and Removing Software
- - Introduction to repositories
- - Managing repositories, if need be (e.g., Spotify)
- - Managing software with repositories
- - Managing software without repositories?
+    - Introduction to repositories
+    - Managing repositories, if need be (e.g., Spotify)
+    - Managing software with repositories
+    - Managing software without repositories?
 
 - Updating the system
- - Updating on GNOME
- - Updating on KDE Plasma
- - Updating with Dnfdragora - _cWs_
- - DNF History and Downgrade
+    - Updating on GNOME
+    - Updating on KDE Plasma
+    - Updating with Dnfdragora - _cWs_
+    - DNF History and Downgrade
 
 - Command line
+
 -  General
- - Setting up a printer - _ozjd_
- - Backups
-    - Deja Dup
-    - Back in Time
- - Configuring the Firewall
- - Man Pages
- - Hibernation
- - Virtualisation - _AdmiralAsshat_
-    - Boxes
-    - VirtManager - _AdmiralAsshat_
+    - Hardware
+        - Setting up a printer - *ozjd*
+        - Configuring A Wifi connection
+    - Backups
+        - Deja Dup
+        - Back in Time
+    - Configuring the Firewall
+    - Man Pages
+    - Hibernation
+    - Virtualisation - _AdmiralAsshat_
+        - Boxes
+        - VirtManager - _AdmiralAsshat_
+        - VirtualBox (update existing draft)
 
 <a name="canvas-when-it-comes-along"></a>
 ### Canvas (when it comes along)
+
 <a name="developing-for-korora"></a>
 ### Developing for Korora
 

@@ -3,6 +3,8 @@ Korora includes a graphical configuration utility for LightDM. You will find it 
 
 As the display manager is a system function you will need to provide authentication to open the configuration utility. Enter the requested password and the Greeter settings will open. Note any settings that LightDM cannot implement are shown with a asterisk beside them.
 
+![LightDM Settings](https://github.com/kororaproject/kp-documentation/blob/master/img/LightDM-settings.png)
+
 The first screen shows the Appearance. The theme, icons, fonts, backgrounds etc are set here. These need to be installed for system wide use.
 >Any themes, fonts, backgrounds etc. that have been installed for a specific user only will not work in LightDM. Similarly an image in the user's home directory won't work for the background. To use your own image move it to /usr/share/backgrounds.
 

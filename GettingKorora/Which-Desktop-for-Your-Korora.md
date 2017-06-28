@@ -1,5 +1,6 @@
 
 
+
 **Table of Contents**  
 
 - [Applications](#applications)
@@ -9,6 +10,7 @@
 - [KDE Plasma](#kde-plasma)
 - [GNOME](#gnome)
 - [Summary](#summary)
+
 
 
 
@@ -33,11 +35,13 @@ The basic minimum hardware requirements for Korora are:
 
 Any of the DE's can run on these hardware requirements, however some of the DE's may not meet the end-user expectations due to poor performance.  
 
+
 <a name="applications"></a>
 ### Applications ###
 While some DEs may include several native apps that are developed specifically for those environments, all versions of Korora come with a full range of applications. See [here](https://kororaproject.org/discover) for more details.
 
-Now let's review each of these DE's in further detail.
+Now let's review each of these DEs’ in further detail.
+
 
 <a name="xfce"></a>
 ### Xfce ###
@@ -62,5 +66,6 @@ GNOME is the current flagship DE for Fedora. GNOME is built on top of a shell an
 <a name="summary"></a>
 ### Summary ###
 Which desktop you choose is a matter of personal preference. All of the Korora desktops are available as live systems that can be demoed without installation on your computer. So you can test drive them all and see which one you prefer. You don't need to limit yourself to just one, either. It is possible to install others along side your first choice, see [this guide](https://github.com/kororaproject/kp-documentation/wiki/Installing-Other-Desktops). 
+
 
 We hope this guide was useful in determining the appropriate desktop environment for your Korora computer!
