@@ -3,9 +3,9 @@
 **Table of Contents**  
 
 - [Contributing to Documentation](#contributing-to-documentation)
-    - [Suggestoins](#suggestons)
+    - [Suggestions](#suggestions)
     - [Contributions](#contributions)
-    - [Submitting Contributions](#submitting-contributions)
+        - [Submitting Contributions](#submitting-contributions)
 
 
 
@@ -27,7 +27,7 @@ We are especially interested in contributions that we can share with everyone. A
 We are also happy to accept improvements and updates to existing documents. Just contact us with the changes needed.
 
 <a name="submitting-contributions"></a>
-## Submitting Contributions
+### Submitting Contributions
 
 There are [guidelines](https://github.com/kororaproject/kp-documentation/wiki/Contribution-Guidelines) for contributing via Github. While that is our preferred method please feel free to use whatever method works best for you.
 
