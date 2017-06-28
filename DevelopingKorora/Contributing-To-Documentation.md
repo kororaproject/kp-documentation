@@ -3,6 +3,7 @@
 **Table of Contents**  
 
 - [Contributing to Documentation](#contributing-to-documentation)
+    - [Suggestoins](#suggestons)
     - [Contributions](#contributions)
     - [Submitting Contributions](#submitting-contributions)
 
@@ -13,6 +14,7 @@
 
 This section of the Korora web site is designed to provide all the information needed to obtain, install and use a Korora system. It is for you, the normal Korora user, and you can help achieve that aim by contributing suggestions and possibly documents. You don't need to be an expert to create a document, just share how you do what you do with Korora.
 
+<a name="suggestions"></a>
 ## Suggestions
 
 There are many subjects that aren't yet covered but we do have a few people willing to write documentation and we want to know what you need explained. Any subject that concerns Korora is suitable to be documented. See the list of suggestions we have already received. Just contact us at **team@kororaproject.org **with your ideas.
