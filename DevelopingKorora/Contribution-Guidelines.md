@@ -4,7 +4,7 @@
 
 - [Contribution Guidelines](#contribution-guidelines)
     - [How To Contribute](#how-to-contribute)
-    - [File Heirachy](#file-heirachy)
+    - [File Hierarchy](#file-hierarchy)
         - [GettingKorora](#gettingkorora)
         - [UsingKorora](#usingkorora)
         - [GettingHelp](#gettinghelp)
@@ -75,7 +75,7 @@ When there are 2 or more sub headings within a document, a Table of Contents sho
 
 - [Contribution Guidelines](#contribution-guidelines)
     - [How To Contribute](#how-to-contribute)
-    - [File Heirachy](#file-heirachy)
+    - [File Hierarchy](#file-hierarchy)
         - [GettingKorora](#gettingkorora)
         - [UsingKorora](#usingkorora)
         - [GettingHelp](#gettinghelp)
