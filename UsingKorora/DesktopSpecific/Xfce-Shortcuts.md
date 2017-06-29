@@ -95,6 +95,8 @@ To cycle in the reverse direction, use:
 
     Alt + Shift + Tab
 
+**NOTE**: Xfce 4.12 added an option to have a preview of the Window instead of an icon when using ALT-Tab to cycle windows. The option uses the compositor so will only work when Compositing is on. This option can be turned off in Settings – Window Manager Tweaks – Compositing.
+
 ### Show Desktop <a name="show"></a>
 
     Ctrl + Alt + D
