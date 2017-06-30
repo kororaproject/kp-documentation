@@ -13,6 +13,9 @@
     - [Build first packages](#build-first-packages)
     - [Create a dnf repository](#create-a-dnf-repository)
     - [Build all packages](#build-all-packages)
+    - [Create final repository](#create-final-repository)
+    - [Create an image](#create-an-image)
+    - [Boot your image](#boot-your-image)
 
 
 
