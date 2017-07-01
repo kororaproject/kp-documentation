@@ -94,9 +94,6 @@ _A username after the topic indicates they are currently working on that topic_.
     - Hardware
         - Setting up a printer - *ozjd*
         - Configuring A Wifi connection
-    - Backups
-        - Deja Dup
-        - Back in Time
     - Configuring the Firewall
     - Man Pages
     - Hibernation
