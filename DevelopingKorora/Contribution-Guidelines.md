@@ -4,13 +4,13 @@
 
 - [Contribution Guidelines](#contribution-guidelines)
     - [How To Contribute](#how-to-contribute)
-    - [File Heirachy](#file-heirachy)
+    - [File Hierarchy](#file-hierarchy)
         - [GettingKorora](#gettingkorora)
         - [UsingKorora](#usingkorora)
         - [GettingHelp](#gettinghelp)
     - [File Naming Conventions](#file-naming-conventions)
     - [Image Naming Conventions](#image-naming-conventions)
-
+    - [Tables of Contents](#toc)
 
 
 <a name="contribution-guidelines"></a>
@@ -66,6 +66,24 @@ When naming your images please name them using the name of your file and if mult
 For images that are hosted in the repo to appear in documents on the Korora website they require the full path with `?raw=true` appended e.g.
 ```
 ![Contribution-Guidelines-Fork](https://github.com/kororaproject/kp-documentation/blob/master/img/Contribution-Guidelines-Fork.png?raw=true)
+```
+<a name="toc"></a>
+## Tables of Contents
+When there are 2 or more sub headings within a document, a Table of Contents should be included. They are simple to create using the sample below which includes the code for the table for this document and the first heading.
+```
+**Table of Contents**  
+
+- [Contribution Guidelines](#contribution-guidelines)
+    - [How To Contribute](#how-to-contribute)
+    - [File Hierarchy](#file-hierarchy)
+        - [GettingKorora](#gettingkorora)
+        - [UsingKorora](#usingkorora)
+        - [GettingHelp](#gettinghelp)
+    - [File Naming Conventions](#file-naming-conventions)
+    - [Image Naming Conventions](#image-naming-conventions)
+
+<a name="contribution-guidelines"></a>
+# Contribution Guidelines
 ```
 
 

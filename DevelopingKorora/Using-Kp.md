@@ -13,6 +13,9 @@
     - [Build first packages](#build-first-packages)
     - [Create a dnf repository](#create-a-dnf-repository)
     - [Build all packages](#build-all-packages)
+    - [Create final repository](#create-final-repository)
+    - [Create an image](#create-an-image)
+    - [Boot your image](#boot-your-image)
 
 
 
@@ -149,8 +152,8 @@ Turn the directories with your packages into usable dnf repositories, which we w
 
 Build the remaining packages, using your new korora repository as the base:
 
-.```
-/kp build --arch x86_64 --releasever 23 --distribution korora
+```
+./kp build --arch x86_64 --releasever 23 --distribution korora
 ```
 
 <a name="create-final-repository"></a>

@@ -22,6 +22,8 @@ _A username after the topic indicates they are currently working on that topic_.
 <a name="getting-korora"></a>
 ### Getting Korora
 
+- Creating Bootable Media - needs updating
+- Installing Korora - needs updating and completing
 - Version Timetable
 - Supported Versions
 
@@ -92,9 +94,6 @@ _A username after the topic indicates they are currently working on that topic_.
     - Hardware
         - Setting up a printer - *ozjd*
         - Configuring A Wifi connection
-    - Backups
-        - Deja Dup
-        - Back in Time
     - Configuring the Firewall
     - Man Pages
     - Hibernation
