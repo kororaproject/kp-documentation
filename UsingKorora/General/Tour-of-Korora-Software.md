@@ -20,11 +20,11 @@ Because of KDE's significant differences, we cannot list many packages on this p
 <a name="gtk-based-desktops"></a>
 ## GTK-based desktops
 
-- [GNOME](GNOME-Tour-of-Software.md)
-- [Cinnamon](Cinnamon-Tour-of-Software.md)
-- [MATE](MATE-Tour-of-Software.md)
-- [Xfce](Xfce-Tour-of-Software.md)
+- [GNOME](../DesktopSpecific/GNOME-Tour-of-Software.md)
+- [Cinnamon](../DesktopSpecific/Cinnamon-Tour-of-Software.md)
+- [MATE](../DesktopSpecific/MATE-Tour-of-Software.md)
+- [Xfce](../DesktopSpecific/Xfce-Tour-of-Software.md)
 
 <a name="gtk-based-desktops"></a>
 ## Qt-based desktops
-- [KDE Plasma](KDE-Tour-of-Software.md)
+- [KDE Plasma](../DesktopSpecific/KDE-Tour-of-Software.md)
