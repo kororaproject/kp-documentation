@@ -25,6 +25,6 @@ Because of KDE's significant differences, we cannot list many packages on this p
 - [MATE](../DesktopSpecific/MATE-Tour-of-Software.md)
 - [Xfce](../DesktopSpecific/Xfce-Tour-of-Software.md)
 
-<a name="gtk-based-desktops"></a>
+<a name="qt-based-desktops"></a>
 ## Qt-based desktops
 - [KDE Plasma](../DesktopSpecific/KDE-Tour-of-Software.md)
