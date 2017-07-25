@@ -39,17 +39,16 @@ There is a link to the Engage Syntax in the introduction on the Engage page. The
 ### Links
 
 While there are a number of ways to add a link, simple links can be made by enclosing the url in greater than and less than symbols. E.g.
-
+``` bash
+<https://kororaproject.org/support/documentation>
 ```
-
-```
-
 <a name="text-boxes"></a>
 ### Text Boxes
 
 When posting small test outputs please use text boxes. Text in text boxes will be properly formatted and easier to read. Note for large amounts of text use a paste service such as [fpaste](https://github.com/kororaproject/kp-documentation/wiki/Fpaste). To create a text box open and close it with 3 x backticks, E.g.
 
 ````
-```paste your text here
+```
+paste your text here
 ```
 ````
