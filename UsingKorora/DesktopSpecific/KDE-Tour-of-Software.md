@@ -121,7 +121,7 @@ A handful of extra packages are added by Korora.
 
 <a name="torrent-client"></a>
 ## Torrent Client
-- [KTorrent](http://www.ktorrent.org/)
+- [KTorrent](https://www.kde.org/applications/internet/ktorrent/)
 
 <a name="system-applications"></a>
 ## System Applications
