@@ -8,6 +8,7 @@
 - [E-Readers](#e-readers)
 - [RSS Reader](#rss-reader)
 - [Scanners](#scanners)
+- [Screen Capture Tools](#screen-capture-tools)
 - [Multimedia Players](#multimedia-players)
 - [Multimedia Ripping and Conversion](#multimedia-ripping-and-conversion)
 - [Desktop Recording](#desktop-recording)
@@ -75,6 +76,11 @@ A handful of extra packages are added by Korora.
 ## Scanners 
 **PURPOSE**: I Need to Scan a Document
 - [Skanlite](https://www.kde.org/applications/graphics/skanlite/)
+
+<a name="screen-capture-tools"></a>
+## Screen Capture Tools
+**PURPOSE**: I Need to Take a Screenshot
+- [Spectacle](https://www.kde.org/applications/graphics/spectacle/)
 
 <a name="multimedia-players"></a>
 ## Multimedia Players
