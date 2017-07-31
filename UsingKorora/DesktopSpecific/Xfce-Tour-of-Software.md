@@ -8,6 +8,7 @@
 - [E-Readers](#e-readers)
 - [RSS Reader](#rss-reader)
 - [Scanners](#scanners)
+- [Screen Capture Tools](#screen-capture-tools)
 - [Multimedia Players](#multimedia-players)
 - [Multimedia Ripping and Conversion](#multimedia-ripping-and-conversion)
 - [Desktop Recording](#desktop-recording)
@@ -69,6 +70,11 @@ On top of this, there are additional packages added by Korora.
 **PURPOSE**: I Need to Scan a Document
 - [Simple Scan](https://launchpad.net/simple-scan)
 
+<a name="screen-capture-tools"></a>
+## Screen Capture Tools
+**PURPOSE**: I Need to Take a Screenshot
+- [Xfce4 Screenshooter](http://goodies.xfce.org/projects/applications/xfce4-screenshooter) (Under the name "Screenshot")
+
 <a name="multimedia-players"></a>
 ## Multimedia Players
 **PURPOSE**: I Need to Play Some Music or Video
@@ -119,3 +125,4 @@ On top of this, there are additional packages added by Korora.
 - [GParted](http://gparted.org) (Modify and delete system partitions)
 - [Backups](https://launchpad.net/deja-dup) (Create a backup of your system)
 - [ownCloud](https://owncloud.org/) (Self-hosted file sync and share platform)
+- [Redshift](http://jonls.dk/redshift/) (Screen temperature adjustment / blue-light reduction tool)
