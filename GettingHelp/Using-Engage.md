@@ -33,7 +33,7 @@ Next detail the issue, specifically the steps needed to recreate it. Also mentio
 <a name="common-engage-syntax-questions"></a>
 ## Common Engage Syntax Questions
 
-There is a link to the Engage Syntax in the introduction on the Engage page. There is also a question mark above reply box that links to the information. However here are a couple of items that are used regularly.
+There is a link to the [Engage Syntax](https://kororaproject.org/support/engage/syntax) in the introduction on the Engage page. There is also a question mark above reply box that links to the information. However here are a couple of items that are used regularly.
 
 <a name="links"></a>
 ### Links
