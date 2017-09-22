@@ -30,7 +30,7 @@ The upgrade is performed with the help of a plugin to the system's package manag
 
 When run, dnf will:
 
-- Update your version 24 repositories to point to the 25 release
+- Update your version 25 repositories to point to the 26 release
 - Download all the rpms required to upgrade your packages
 - Reboot your machine and install them
 - Boot into your upgraded system
@@ -50,7 +50,7 @@ sudo dnf install dnf-plugin-system-upgrade
 Run the dnf system upgrade command (this will take a while to download all the updates, but you can continue using your machine in the meantime).
 
 ```
-sudo dnf --refresh system-upgrade download --releasever=25
+sudo dnf --refresh system-upgrade download --releasever=26
 ```
 
 > If you have an issue and need to restart the system-upgrade remove the '--refresh' option from the command to use packages already downloaded.
