@@ -1,0 +1,27 @@
+# Korora Codenames
+
+Korora(a) release are given codenames are based on characters from Finding Nemo. There has been one exception and one shared name as noted below.
+
+```
+Version               Release Date     Codename
+Kororaa 14            2011-05-31       Nemo
+Kororaa 15	      2011-09-20       Squirt
+Kororaa 15.1	      2011-10-20 
+Kororaa 16	      2011-12-16       Chum
+Kororaa 17	      2012-07-16       Bubbles
+Korora 18	      2013-05-02       Flo
+Korora 19	      2013-07-02       Bruce
+Korora 19.1	      2013-10-08
+Korora 20	      2014-01-10       Peach
+Korora 21	      2015-02-07       Darla
+Korora 22	      2015-08-02       Selina (see note a.)
+Korora 23	      2016-02-07       Coral (see note b.)
+Korora 24	      2016-07-19       Sheldon
+Korora 25	      2016-12-07       Gurgle
+Korora 26 	      2017-09-24       Bloat
+```
+
+#### Notes
+a.  named after a team member's daughter who was born during the preparation of the release
+
+b. a shared name for Nemo's mother and in remembrance of a team member's mother, who shared that name, and passed away as the release was in development
