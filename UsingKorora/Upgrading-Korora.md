@@ -34,6 +34,7 @@ When run, dnf will:
 - Download all the rpms required to upgrade your packages
 - Reboot your machine and install them
 - Boot into your upgraded system
+
 You can also review the manpage by typing the command - `man dnf.plugin.system-upgrade`
 
 First, make sure you are running the latest packages for your current version.
