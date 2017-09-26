@@ -96,6 +96,8 @@ _A username after the topic indicates they are currently working on that topic_.
         - Configuring A Wifi connection
     - Configuring the Firewall
     - Man Pages
+    - Networking
+        - Simple Home Network
     - Hibernation
     - Virtualisation - _AdmiralAsshat_
         - Boxes
