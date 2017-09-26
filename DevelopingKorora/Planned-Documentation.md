@@ -5,7 +5,7 @@
 - [Planned Documentation](#planned-documentation)
     - [Getting Korora](#getting-korora)
     - [Using Korora](#using-korora)
-    - [Canvas (when it comes along)](#canvas-when-it-comes-along)
+    - [Canvas (when it comes along)](#canvas)
     - [Developing for Korora](#developing-for-korora)
 
 
@@ -104,7 +104,7 @@ _A username after the topic indicates they are currently working on that topic_.
         - VirtManager - _AdmiralAsshat_
         - VirtualBox (update existing draft)
 
-<a name="canvas-when-it-comes-along"></a>
+<a name="canvas"></a>
 ### Canvas (when it comes along)
 
 <a name="developing-for-korora"></a>
