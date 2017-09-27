@@ -1,6 +1,8 @@
-# Korora Codenames
+# Korora Version History
 
 Korora(a) release are given codenames are based on characters from Finding Nemo. There has been one exception and one shared name as noted below.
+
+The desktop environment options do change from time to time.
 
 ```
 Version               Release Date     Codename          Desktops
