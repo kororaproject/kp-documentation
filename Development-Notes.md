@@ -17,6 +17,8 @@ These are notes on the development of this section and will be removed when the 
 
 This project started as a result of the discussion on https://github.com/kororaproject/website/issues/55 and also the request from a number of people to allow contributions by pull requests.
 
+It has been agreed that the wiki won't be used and so it will no longer be updated. The repo will be maintained and it will be used to develop new documents and to accept contributions from the community. The repo will contiue to host the images used on the Korora website documentation.
+
 <a name="recent-changes"></a>
 ## Recent Changes
 Footer - added, copied from the website
@@ -68,6 +70,6 @@ After some trial and error it was found that for images to appear on kp.org they
 
 ### Known Incompatibilities
 The Korora website accepts HTML in documentation but it is ignored on GitHub.  
-The Korora site doesn't handle tables which work on GitHub
+The Korora site doesn't handle tables which work on GitHub. Simple tables may be created using code blocks which use monospace fonts but these may need to be formated manually.
 The Korora site doesn't create section links which are needed for TOC so these need to be added manually
 
