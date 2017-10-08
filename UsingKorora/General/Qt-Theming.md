@@ -4,6 +4,7 @@
 
 - [QT Theming on GTK Desktops](#qt-theming-on-gtk-desktops)
     - [qt5ct](#qt5ct)
+        - [Installation Fix for qt5ct in Xfce](#qt5ct_installation)
     - [Qt-config](#qt-config)
 
 
@@ -22,7 +23,7 @@ The latest version is 5 and qt5ct is used to configure Qt5 applications. Those b
 <a name="qt5ct"></a>
 ## qt5ct
 
-qt5ct can be installed with `sudo dnf install qt5ct`. Once installed qt5ct will appear in your menu as "Qt5 Settings". The actual location will depend on your desktop but check under Settings or similar.
+qt5ct can be installed with `sudo dnf install qt5ct`. Once installed qt5ct will appear in your menu as "Qt5 Settings". The actual location will depend on your desktop but check under Settings or similar. There have been some issues reported installing qt5ct on Xfce and possibly other desktops. If qt5ct doesn't run after installation see [below](#qt5ct_installation) for the fix.
 
 When launched there are several tabs but the main tab is the first one, "Appearance". The style option shows a number of choices. Try the gtk option first. It will attempt to copy the GTK style theming and make the appearance of the Qt application resemble your selected GTK theme.
 
@@ -33,6 +34,16 @@ The other tabs are less important but you may choose to set the font. The icon t
 Under Interface there are several options. You can even select to have some visual effects. The other options are personal preference and many people will be happy with the defaults.
 
 The final tab is for a custom style sheet. Usually this will be left blank.
+
+<a name="qt5ct_installation"></a>
+### Installation Fix for qt5ct on Xfce
+An additional package is required, `sudo dnf install qt5-qtstyleplugins`. Then copy Xfce's Initrc file and edit it - `cp /etc/xdg/xfce4/xinitrc ~/.config/xfce4/xinitrc`. Edit it with your preferred test editor e.g. `nano .config/xfce4/xinitrc` add this at the top:
+
+```
+QT_QPA_PLATFORMTHEME=qt5ct
+export QT_QPA_PLATFORMTHEME
+```
+Now, log out, and log back into Xfce and qt5ct will run.
 
 <a name="qt-config"></a>
 ## Qt-config
