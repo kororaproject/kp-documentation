@@ -23,7 +23,7 @@ The man page gives more details and suggests you bind that command to a keyboard
 
 I would suggest binding it to F12. To do this right click on the desktop, select Applications – Settings – Keyboard. Select the Application Shortcuts tab, click on the Add button, type in the command as above. Click OK and it will open another window asking for the key, press your chosen key(s) and the window will close. Test the shortcut, the terminal should open as a drop down.
 
-In Edit there is a preferences option with a new DropDown tab. Make your choices here for size, location etc. If you turn off the menu bar you can access the preferences and new tab etc. options with a right click. The Dropdown preference screen also has an option for Opacity this applies to the whole terminal including the text. The Opacity option on the Appearance tab only affects the background.
+In Edit there is a preferences option with a new DropDown tab. Make your choices here for size, location etc. If you turn off the menu bar you can access the preferences and new tab etc. options with a right click. The Dropdown preference screen also has an option for Opacity this applies to the whole terminal including the text. The Opacity option on the Appearance tab only affects the background. The Duration option controls the speed of the animation as the terminal drops down and ascends.
 
 There is an option for a panel indicator too, it will appear in the notification area. Clicking on the panel icon will open the terminal. Right clicking gives access to the Preferences and an option to close the terminal.
 
