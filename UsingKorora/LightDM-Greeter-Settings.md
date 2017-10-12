@@ -1,4 +1,5 @@
-The Display Manager provides the graphical login screen you see when you start your Korora system. It has options for the desktop you will run and allows you to enter your password. Korora uses LightDM as the display manager for Cinnamon, Mate and Xfce.
+The Display Manager provides the graphical login screen you see when you start your Korora system. It has options for the desktop you will run and allows you to enter your password. Korora uses LightDM as the display manager for Cinnamon, Mate and Xfce. There are a choice of greeters and you can [select the greeter](https://kororaproject.org/support/documentation/changing-the-lightdm-greeter) to use. This guide covers the GTK+ Greeter.
+
 Korora includes a graphical configuration utility for LightDM. You will find it listed as "LightDM GTK+ Greeter Settings" in System Settings or under Administration depending on the Desktop Environment you are using. It allows the setting of background, theme, user icon. location and a number of other options. It is easy and safe to change the settings in here. None of the settings will break LightDM.
 
 As the display manager is a system function you will need to provide authentication to open the configuration utility. Enter the requested password and the Greeter settings will open. Note any settings that LightDM cannot implement are shown with a asterisk beside them.
