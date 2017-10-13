@@ -8,11 +8,11 @@ As the display manager is a system function you will need to provide authenticat
 
 The first option will create a dotted grid effect over the login screen. The purpose for this is unknown. The next line will show the hostname on the top panel.
 
-There are options for a background logo or a user logo which will appear int helower left corner. 
+There are options for a background logo or a user logo which will appear in the lower left corner. 
 
 The theme, icons, backgrounds etc are set next. These need to be installed for system wide use. There is also an option for HiDPI screens.
 <div class="callout callout-warning"><p>Any themes, fonts, backgrounds etc. that have been installed for a specific user only will not work in LightDM. Similarly an image in the user's home directory won't work for the background. To use your own image move it to /usr/share/backgrounds.</p></div>
 
 The last option will allow guest logins. It should normally be left off.
 
-If you have amde changes Log Out and back in to check your settings.
+If you have made changes Log Out and back in to check your settings.
