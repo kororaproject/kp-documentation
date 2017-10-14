@@ -1,3 +1,15 @@
+**Table of Contents**  
+
+- [Why Build](#why)
+    - [Up to Date ISOs](#up-to-date)
+    - [Testing Pre-Release Versions](#test)
+    - [Community Versions](#community)
+- [Prepare Your System](#prepare)
+- [Build Command](#build)
+- [Support and Bug Reports on Canvas](#support)
+- [Feedback on Pre-Release Systems](#feedback)
+
+
 ## Building ISOs with Canvas
 Canvas is the application Korora team members use to build Korora ISOs and it is included in each Korora system. Building ISOs is only one of its functions but that is what is covered here. There are more details on Canvas on our [Github site](https://github.com/kororaproject/kp-canvas/tree/master/upstream/client).
 
