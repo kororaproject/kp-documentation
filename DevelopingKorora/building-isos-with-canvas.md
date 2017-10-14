@@ -32,7 +32,7 @@ One of the features of Canvas is that anyone can create a special version of Kor
 ### Prepare Your System
 First check you have the latest version of Canvas installed, `sudo dnf --refresh upgrade canvas`. There is only one extra package needed, livecd-tools. `sudo dnf install livecd-tools`.
 
-### Buld Command
+### Build Command
 Systems are based on templates that Korora has prepared. To list the  available templates type `canvas template list`. This will show all the templates that you can use. The list will include any templates you have created and all public templates.
 
 The command to create an ISO is 
