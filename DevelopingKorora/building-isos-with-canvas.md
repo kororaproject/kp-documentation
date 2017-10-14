@@ -39,7 +39,7 @@ The command to create an ISO is
 ```
 sudo canvas template iso_name_of_chosen_template --releasever nn --livecd-creator
 ```
-So e.g. the coomand to build Korora Xfce version 26 will be `sudocanvas template iso kororaproject:korora-live-xfce --releasever 26 --livecd-creator`
+So e.g. the command to build Korora Xfce version 26 will be `sudocanvas template iso kororaproject:korora-live-xfce --releasever 26 --livecd-creator`
 
 This process will take some time as it will download all the required packages and then assemble the ISO. You can follow the progress as it continues.
 
