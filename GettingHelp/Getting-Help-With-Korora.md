@@ -40,3 +40,11 @@ We want to foster a polite, positive, intelligent and fun environment for the Ko
 7. The preferred language is English. We might not be able to help you if you use another language, but we may try!
 
 8. Administrators will monitor all threads and have the right to edit or delete posts which don't meet these guidelines at their discretion. We hope not to do this, but users who violate the above rules may also be banned.
+
+
+**See Also**
+
+- [Fpaste](https://kororaproject.org/support/documentation/fpaste)
+- [Troubleshooting Tips](https://kororaproject.org/support/documentation/troubleshooting-tips)
+- [Using Engage](https://kororaproject.org/support/documentation/using-engage)
+ 
