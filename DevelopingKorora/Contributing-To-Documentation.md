@@ -1,17 +1,7 @@
-
-
-**Table of Contents**  
-
-- [Contributing to Documentation](#contributing-to-documentation)
-    - [Suggestions](#suggestions)
-    - [Contributions](#contributions)
-        - [Submitting Contributions](#submitting-contributions)
-
-
-
-<a name="contributing-to-documentation"></a>
-# Contributing to Documentation
-
+- [Suggestions](#suggestions)
+- [Contributions](#contributions)
+    - [Submitting Contributions](#submitting-contributions)
+    
 This section of the Korora web site is designed to provide all the information needed to obtain, install and use a Korora system. It is for you, the normal Korora user, and you can help achieve that aim by contributing suggestions and possibly documents. You don't need to be an expert to create a document, just share how you do what you do with Korora.
 
 We have a Github page where you can contribute at <https://github.com/kororaproject/kp-documentation> see [here](https://kororaproject.org/support/documentation/contribution-guidelines) for details on using the Github site. You can also contact us by email with your ideas, there are details on that page of various ways you can be involved.
