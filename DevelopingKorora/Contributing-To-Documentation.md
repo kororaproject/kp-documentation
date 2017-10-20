@@ -41,4 +41,4 @@ Providing documentation is a simple and useful way you can contribute to Korora 
 **See Also**  
 
 - [Contribution Guidelines](https://kororaproject.org/support/documentation/contribution-guidelines)
-- [Planned Documentation)](https://kororaproject.org/support/documentation/planned-documentation)
+- [Planned Documentation](https://kororaproject.org/support/documentation/planned-documentation)
