@@ -6,4 +6,4 @@ Cinnamon uses LightDM as its Display Manger. To configure and customise LightDM 
 
 - [Autologin in Cinnamon](https://kororaproject.org/support/documentation/autologin-in-cinnamon)
 - [Cinnamon Shortcuts](https://kororaproject.org/support/documentation/cinnamon-shortcuts)
-- [Tour of Cinnamon Software (I need a Program That Does This)](https://kororaproject.org/support/documentation/tour-of-cinnamon-software-i-need-a-program-that-does-this)
+- [Tour of Cinnamon Software ("I need a Program That Does This")](https://kororaproject.org/support/documentation/tour-of-cinnamon-software-i-need-a-program-that-does-this)
