@@ -36,3 +36,9 @@ There are [guidelines](https://github.com/kororaproject/kp-documentation/wiki/Co
 Korora documentation uses the same syntax for formatting as Engage. However you don't need to worry about the syntax or even poor language skills as our team members are happy to edit and format the contributions before posting them. We just need you to share your knowledge. Even if you don't think you know very much, if you can do something that isn't covered we need your contribution. Others can enhance it later if needed. Just contact us at **team@kororaproject.org** with your contributions and ideas.
 
 Providing documentation is a simple and useful way you can contribute to Korora plus many people find they learn even more as they do it, so give it a go.
+
+
+**See Also**  
+
+- [Contribution Guidelines](https://kororaproject.org/support/documentation/contribution-guidelines)
+- [Planned Documentation)](https://kororaproject.org/support/documentation/planned-documentation)
