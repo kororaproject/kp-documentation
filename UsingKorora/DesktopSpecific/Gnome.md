@@ -2,4 +2,4 @@ GNOME's new desktop takes elegance to a new level. They've swept away the clutte
 
 **Gnome Guides**
 
-    - [Tour of Gnome Software (I need a Program That Does This)](https://kororaproject.org/support/documentation/tour-of-gnome-software-i-need-a-program-that-does-this)
+- [Tour of Gnome Software (I need a Program That Does This)](https://kororaproject.org/support/documentation/tour-of-gnome-software-i-need-a-program-that-does-this)
