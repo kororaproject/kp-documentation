@@ -7,4 +7,4 @@ Mate uses LightDM as its Display Manger. To configure and customise LightDM see 
 
 - [Autologin in Mate](https://kororaproject.org/support/documentation/autologin-in-mate)
 - [Mate Shortcuts](https://kororaproject.org/support/documentation/mate-shortcuts)
-- [Tour of Mate Software (I need a Program That Does This)](https://kororaproject.org/support/documentation/tour-of-mate-software-i-need-a-program-that-does-this)
+- [Tour of Mate Software ("I need a Program That Does This")](https://kororaproject.org/support/documentation/tour-of-mate-software-i-need-a-program-that-does-this)
