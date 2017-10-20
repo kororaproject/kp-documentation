@@ -1,14 +1,9 @@
-
-
-**Table of Contents**  
-
-- [Updating Korora](#updating-korora)
-
-
-
-<a name="updating-korora"></a>
-# Updating Korora
-
 Korora regularly provides updates to the packages that make up the system. These include security updates, bug fixes or newer versions of software. All systems should be updated regularly to ensure the system operates in the most efficient and secure manner possible.
 
 There are a number of ways updates can be installed. All Korora come with a graphical package manager or updates can be installed from the command line. The recommended methods of update are by [Yumex](https://github.com/kororaproject/kp-documentation/wiki/Updating-With-Yumex) or the [command line](https://github.com/kororaproject/kp-documentation/wiki/Updating-Via-command-Line).
+
+**Document List**  
+
+- [Keeping Current Package Versions](https://kororaproject.org/support/documentation/keeping-current-package-versions)
+- [Updating via Command Line](https://kororaproject.org/support/documentation/updating-via-command-line)
+- [Updating with Yumex](https://kororaproject.org/support/documentation/updating-with-yumex)
