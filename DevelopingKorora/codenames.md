@@ -21,6 +21,7 @@ Korora 23	      2016-02-07       Coral             KDE Gnome Mate Cinnamon Xfce 
 Korora 24	      2016-07-19       Sheldon           Gnome Mate Cinnamon Xfce
 Korora 25	      2016-12-07       Gurgle            KDE Gnome Mate Cinnamon Xfce
 Korora 26 	      2017-09-24       Bloat             KDE Gnome Mate Cinnamon Xfce
+Korora 27 	      2017-00-00       Marlin             KDE Gnome Mate Cinnamon Xfce
 ```
 
 #### Notes
