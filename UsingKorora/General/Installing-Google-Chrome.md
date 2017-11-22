@@ -10,7 +10,7 @@
 <a name="installing-google-chrome"></a>
 # Installing Google Chrome
 
-Korora includes FireFox as its default browser but many people prefer Google Chrome. Unfortunately Chrome cannot be distributed in Korora due to its licensing restrictions. However it is simple to install Chrome in any version of Korora.
+Korora includes FireFox as its default browser but many people prefer Google Chrome. Unfortunately Chrome cannot be distributed in Korora due to its licensing restrictions. However it is simple to install Chrome in any version of Korora. **Note** there is an open source version of Chrome called **Chromium** which is in the repos, see [here](https://kororaproject.org/support/documentation/installing-chromium) for details on installing Chromium.
 
 Korora comes with many repos already set up so you can just install many software packages from the Package Manager or command line. One of the repos that is set up is Google Chrome.
 
