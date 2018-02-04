@@ -4,4 +4,4 @@ Suspend will use the computer's memory to retain the session information. This h
 
 By default hibernation is not set to be operational on Korora systems. It needs to be configured in the boot options by defing a resume device. This is your swap partition.
 
-To set a resume device you need to add resume=/dev/sdxn to /etc/default/grub (changing the x and n to the correct device for the swap partition, e.g. mine is sdb4 but yours will probably be sda). Then run grub2-mkconfig -o /boot/grub2/grub.cfg (or if on an efi system /boot/efi/EFI/fedora/grub.cfg, if not sure use command completion to show the correct path).
+To set a resume device you need to add `resume=/dev/sdxn` to /etc/default/grub (changing the x and n to the correct device for the swap partition). Then run `grub2-mkconfig -o /boot/grub2/grub.cfg` (or if on an efi system /boot/efi/EFI/fedora/grub.cfg, if not sure use command completion to show the correct path). Use sudo or run this command as root.
