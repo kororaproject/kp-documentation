@@ -37,7 +37,7 @@ Systems are based on templates that Korora has prepared. To list the  available 
 
 The command to create an ISO is 
 ```
-sudo canvas template iso_name_of_chosen_template --releasever nn --livecd-creator
+sudo canvas template iso name_of_chosen_template --releasever nn --livecd-creator
 ```
 So e.g. the command to build Korora Xfce version 26 will be `sudo canvas template iso kororaproject:korora-live-xfce --releasever 26 --livecd-creator`
 
