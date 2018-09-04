@@ -33,5 +33,6 @@ This is a great option for Xfce users wanting the convenience of a drop down ter
 There are a few keyboard shortcuts that can be useful, 
 - **ctrl+shift+t** – open a new tab
 - **ctrl+pgup** – moves to the next tab 
+- **ctrl+pgdn** – moves to the previous tab 
 - **ctrl+shift+up or down** – scrolls up or down
 - **shift+pgup or pgdn** – scrolls up or down a page at a time
