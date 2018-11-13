@@ -19,7 +19,7 @@ When it is installed run lpf-spotify-client from the menu. Depending on the desk
 
 When it is complete Spotify Client will appear on the Multimedia section of your menu. You can create a new Spotify account or sign in with an existing account.
 
-<a name="installing-spotify"></a>
+<a name="updating-spotify"></a>
 # Updating Spotify
 
 When a new version of Spotify client is released you can update by running lpf-spotify-client from the menu again. It will recognise that a new version is available and repeat the download, build and install process for you.
